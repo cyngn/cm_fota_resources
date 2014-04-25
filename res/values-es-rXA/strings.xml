@@ -4,6 +4,7 @@
   <string name="app_name">Anovamientos del sistema</string>
   <string name="default_header">El sistema ta anováu</string>
   <string name="default_desc">Calca nel botón pa buscar anovamientos</string>
+  <string name="default_button">Comprobar anovamientos</string>
   <string name="cancel_button">Encaboxar l\'anovamientu</string>
   <string name="download_button">Descargar l\'anovamientu</string>
   <string name="install_button">Instalar l\'anovamientu</string>

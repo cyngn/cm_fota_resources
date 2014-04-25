@@ -4,6 +4,7 @@
   <string name="app_name">Rendszerfrissítések</string>
   <string name="default_header">A rendszer naprakész</string>
   <string name="default_desc">Nyomja meg a gombot a frissítések kereséséhez</string>
+  <string name="default_button">Frissítések keresése</string>
   <string name="cancel_button">Frissítés megszakítása</string>
   <string name="download_button">Frissítés letöltése</string>
   <string name="install_button">Frissítés telepítése</string>
