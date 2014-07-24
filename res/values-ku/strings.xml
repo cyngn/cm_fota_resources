@@ -8,7 +8,7 @@
   <string name="cancel_button">پاشه‌کشه‌ له‌ تازه‌کردنه‌وه‌</string>
   <string name="download_button">دابه‌زاندنی تازه‌کردنه‌وه‌کان</string>
   <string name="install_button">دامه‌زراندنی تازه‌کردنه‌وه‌کان</string>
-  <string name="nothing_found_desc">هیچ تازه‌کردنه‌وه‌یه‌ک ئاماده‌نه‌بووه‌ بۆتۆ له‌ کۆتا پشکنین <xliff:g id="ڕۆژی" example="٤ کاتژمێر له‌مه‌وپێش">%1$s</xliff:g></string>
+  <string name="nothing_found_desc">هیچ تازه‌کردنه‌وه‌یه‌ک ئاماده‌نه‌بووه‌ بۆتۆ له‌ کۆتا پشکنین <xliff:g id="ڕۆژی" example="4 کاژێر له‌مه‌وپێش">%1$s</xliff:g></string>
   <string name="generic_update_desc" product="tablet">تازه‌کردنه‌وه‌ی سیسته‌مه‌که‌  <xliff:g id="version">%1$s</xliff:g>, ئامده‌یه‌ بۆ تابلێته‌که‌ت ، ئاگادارده‌کرێیته‌وه‌ کاتێک ئاماده‌ی دامه‌زراندن بوو</string>
   <string name="generic_update_desc" product="default">تازه‌کردنه‌وه‌ی سیسته‌مه‌که‌ <xliff:g id="version">%1$s</xliff:g>, ئامده‌یه‌ بۆ مۆبایله‌که‌ت ، ئاگادارده‌کرێیته‌وه‌ کاتێک ئاماده‌ی دامه‌زراندن بوو</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. ئاگادارده‌کرێیته‌وه‌ کاتێک ئاماده‌ی دامه‌زراندن بوو</string>
