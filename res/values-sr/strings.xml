@@ -4,7 +4,7 @@
   <string name="app_name">Системска ажурирања</string>
   <string name="default_header">Систем је ажуран</string>
   <string name="default_desc">Притисни дугме за проверу ажурирања</string>
-  <string name="default_button">Провери ажурирања</string>
+  <string name="default_button">Провери за ажурирања</string>
   <string name="cancel_button">Откажи ажурирања</string>
   <string name="download_button">Преузимање ажурирања</string>
   <string name="install_button">Инсталирање ажурирања</string>
