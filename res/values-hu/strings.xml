@@ -9,8 +9,8 @@
   <string name="download_button">Frissítés letöltése</string>
   <string name="install_button">Frissítés telepítése</string>
   <string name="nothing_found_desc">Az utolsó ellenőrzés nem talált elérhető frissítést <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Egy CyanogenMod frissítés, <xliff:g id="version">%1$s</xliff:g>, elérhető a tabletjére. Értesítést kap, ha telepítésre kész</string>
-  <string name="generic_update_desc" product="default">Egy CyanogenMod frissítés, <xliff:g id="version">%1$s</xliff:g>, elérhető a telefonjára. Értesítést kap, ha telepítésre kész</string>
+  <string name="generic_update_desc" product="tablet">Egy Cyanogen OS frissítés, <xliff:g id="version">%1$s</xliff:g>, elérhető a tabletjére. Értesítést kap, ha telepítésre kész</string>
+  <string name="generic_update_desc" product="default">Egy Cyanogen OS frissítés, <xliff:g id="version">%1$s</xliff:g>, elérhető a telefonjára. Értesítést kap, ha telepítésre kész</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Értesítést kap, ha telepítésre kész</string>
   <string name="pending_update_header">Frissítés érhető el a rendszerére</string>
   <string name="pending_update_notification">Rendszerfrissítés kész</string>

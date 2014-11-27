@@ -9,8 +9,6 @@
   <string name="download_button">Eguneraketa deskargatu</string>
   <string name="install_button">Egunerageta instalatu</string>
   <string name="nothing_found_desc">Ez dira zure sistemarako eguneraketarik aurkitu azken bilaketan, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">CyanogenMod bertsio berri bat dago eskuragarri zure tablet-arentzat, <xliff:g id="version">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
-  <string name="generic_update_desc" product="default">CyanogenMod bertsio berri bat dago eskuragarri zure telefonoarentzat, <xliff:g id="version">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
   <string name="pending_update_header">Eguneraketa bat dago eskuragarri zure sistemarentzat</string>
   <string name="pending_update_notification">Eguneraketa instalatzeko prest dago</string>

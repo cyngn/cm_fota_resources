@@ -9,8 +9,6 @@
   <string name="download_button">Laai opdatering af</string>
   <string name="install_button">Installeer bywerking</string>
   <string name="nothing_found_desc">Geen bywerkings is beskikbaar vir jou stelsel na laaste kyk, <xliff:g id="date" example="4 ure gelede">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">\'n CyanogenMod bywerking, <xliff:g id="version">%1$s</xliff:g>, is beskikbaar vir jou tablet. Jy sal in kennis gestel word wanneer dit reg is vir installasie</string>
-  <string name="generic_update_desc" product="default">\'n CyanogenMod opdatering, <xliff:g id="version">%1$s</xliff:g>, is beskikbaar vir jou foon. Jy sal in kennis gestel word wanneer dit reg is vir installasie</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Jy sal in kennis gestel word wanneer dit gereed is vir installasie</string>
   <string name="pending_update_header">\'n Bywerking is beskikbaar vir jou stelsel</string>
   <string name="pending_update_notification">Stelsel bywerking is gereed</string>

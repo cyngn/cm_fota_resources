@@ -9,8 +9,8 @@
   <string name="download_button">Güncellemeyi indir</string>
   <string name="install_button">Güncellemeyi yükle</string>
   <string name="nothing_found_desc"><xliff:g id="date" example="4 hours ago">%1$s</xliff:g>, son kontrolde sisteminiz için güncelleme bulunamadı</string>
-  <string name="generic_update_desc" product="tablet">Tabletiniz için CyanogenMod güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
-  <string name="generic_update_desc" product="default">Telefonunuz için CyanogenMod güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
+  <string name="generic_update_desc" product="tablet">Tabletiniz için CyanogenMod OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
+  <string name="generic_update_desc" product="default">Telefonunuz için CyanogenMod OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Yüklemeye hazır olduğunda bildirileceksiniz</string>
   <string name="pending_update_header">Sisteminiz için bir güncelleme mevcut</string>
   <string name="pending_update_notification">Sistem güncellemesi hazır</string>

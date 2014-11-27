@@ -9,8 +9,6 @@
   <string name="download_button">下載更新</string>
   <string name="install_button">安裝更新</string>
   <string name="nothing_found_desc">自上次檢查後，暫無適合您系統的更新，<xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">CyanogenMod 可供平板電腦更新 <xliff:g id="version">%1$ s</xliff:g>，安裝完成將會通知您。</string>
-  <string name="generic_update_desc" product="default">CyanogenMod 可供電話更新 <xliff:g id="version">%1$ s</xliff:g>，安裝完成將會通知您。</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g> 。當安裝準備就緒的時候將通知您</string>
   <string name="pending_update_header">有適合您系統的更新</string>
   <string name="pending_update_notification">系統更新準備就緒</string>

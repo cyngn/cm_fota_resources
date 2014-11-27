@@ -9,8 +9,8 @@
   <string name="download_button">Загрузить обновление</string>
   <string name="install_button">Установить обновление</string>
   <string name="nothing_found_desc">Во время последней проверки, <xliff:g id="date" example="4 часа назад">%1$s</xliff:g>, не было обновлений.</string>
-  <string name="generic_update_desc" product="tablet">Обновление CyanogenMod, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели планшета. Когда оно будет готово к установке, будет выведено уведомление</string>
-  <string name="generic_update_desc" product="default">Обновление CyanogenMod, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели телефона. Когда оно будет готово к установке, будет выведено уведомление.</string>
+  <string name="generic_update_desc" product="tablet">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели планшета. Когда оно будет готово к установке, будет выведено уведомление</string>
+  <string name="generic_update_desc" product="default">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели телефона. Когда оно будет готово к установке, будет выведено уведомление</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Когда оно будет готово к установке, будет выведено уведомление.</string>
   <string name="pending_update_header">Доступно обновление для вашего устройства</string>
   <string name="pending_update_notification">Обновление готово к установке</string>

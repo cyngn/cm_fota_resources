@@ -9,8 +9,6 @@
   <string name="download_button">Tiri uuendus</string>
   <string name="install_button">Installeerige uuendus</string>
   <string name="nothing_found_desc">Ühtegi uuendust polnud saadaval teie süsteemile viimasel kontrollil,  <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">CyanogenModi uuendus, <xliff:g id="version">%1$s</xliff:g>,on saadaval teie tahvlile. Teile teatatakse kui uuendus on installeerimiseks valmis</string>
-  <string name="generic_update_desc" product="default">CyanogenModi uuendus, <xliff:g id="version">%1$s</xliff:g>, on saadaval teie telefonile. Teile teatatakse kui uuendus on installeerimiseks valmis</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Teile teatatakse kui uuendus on installeerimiseks valmis</string>
   <string name="pending_update_header">Uuendus on saadaval teie süsteemile</string>
   <string name="pending_update_notification">Süsteemiuuendus on valmis</string>

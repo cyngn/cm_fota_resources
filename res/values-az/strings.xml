@@ -9,8 +9,6 @@
   <string name="download_button">Yenilənməni endir</string>
   <string name="install_button">Yenilənməni yüklə</string>
   <string name="nothing_found_desc"><xliff:g id="date" example="4 hours ago">%1$s</xliff:g> son yoxlamada sisteminiz üçün yenilik tapılmadı</string>
-  <string name="generic_update_desc" product="tablet">Planşetiniz üçün CyanogenMod yeniləməsi <xliff:g id="version">%1$s</xliff:g> mövcuddur. Yükləmək üçün hazır olanda sizi xəbərdar edəcəyik</string>
-  <string name="generic_update_desc" product="default">Telefonunuz üçün CyanogenMod yeniləməsi <xliff:g id="version">%1$s</xliff:g> mövcuddur. Yükləmək üçün hazır olanda sizi xəbərdar edəcəyik</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Yükləmək üçün hazır olanda sizi xəbərdar edəcəyik</string>
   <string name="pending_update_header">Sisteminiz üçün yeniləmə mövcuddur</string>
   <string name="pending_update_notification">Sistem yeniləməsi hazırdır</string>

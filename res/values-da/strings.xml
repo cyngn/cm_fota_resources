@@ -9,8 +9,8 @@
   <string name="download_button">Download opdatering</string>
   <string name="install_button">Installér opdatering</string>
   <string name="nothing_found_desc">Ingen opdateringer var tilgængelige til dit system ved sidste søgning, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">En CyanogenMod-opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din tablet. Du vil blive underrettet, når den er klar til installation</string>
-  <string name="generic_update_desc" product="default">En CyanogenMod-opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din telefon. Du vil blive underrettet, når den er klar til installation</string>
+  <string name="generic_update_desc" product="tablet">En Cyanogen opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din tablet. Du vil blive underrettet, når den er klar til installation</string>
+  <string name="generic_update_desc" product="default">En Cyanogen opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din telefon. Du vil blive underrettet, når den er klar til installation</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du vil blive underrettet, når den er klar til installation</string>
   <string name="pending_update_header">En opdatering er tilgængelig til dit system</string>
   <string name="pending_update_notification">Systemopdatering er klar</string>

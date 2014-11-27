@@ -9,8 +9,8 @@
   <string name="download_button">Λήψη ενημέρωσης</string>
   <string name="install_button">Εγκατάσταση ενημέρωσης</string>
   <string name="nothing_found_desc">Δεν υπήρχαν ενημερώσεις για το σύστημά σας στον τελευταίο έλεγχο, <xliff:g id="date" example="4 ώρες πριν">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Μια ενημερωμένη έκδοση του CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το tablet σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
-  <string name="generic_update_desc" product="default">Μια ενημερωμένη έκδοση του CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το τηλέφωνό σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
+  <string name="generic_update_desc" product="tablet">Μια ενημερωμένη έκδοση του Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το tablet σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
+  <string name="generic_update_desc" product="default">Μια ενημερωμένη έκδοση του Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το τηλέφωνό σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
   <string name="pending_update_header">Υπάρχει διαθέσιμη ενημέρωση για το σύστημά σας</string>
   <string name="pending_update_notification">Η ενημέρωση συστήματος είναι έτοιμη</string>

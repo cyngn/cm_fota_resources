@@ -9,8 +9,8 @@
   <string name="download_button">Stáhnout aktualizaci</string>
   <string name="install_button">Instalovat aktualizaci</string>
   <string name="nothing_found_desc">Při poslední kontrole (<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>) nebyly nalezeny žádné aktualizace systému.</string>
-  <string name="generic_update_desc" product="tablet">Je dostupná nová aktualizace CyanogenMod - verze <xliff:g id="version">%1$s</xliff:g>. Až bude aktualizace připravena pro instalaci, budete upozorněn.</string>
-  <string name="generic_update_desc" product="default">Je dostupná aktualizace CyanogenMod - <xliff:g id="version">%1$s</xliff:g>. Až bude aktualizace připravena pro instalaci, budete upozorněn.</string>
+  <string name="generic_update_desc" product="tablet">Aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, je dostupná pro váš tablet. Až bude aktualizace připravená k instalace, budete upozorněni</string>
+  <string name="generic_update_desc" product="default">Aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, je dostupná pro váš telefon. Až bude aktualizace připravená k instalace, budete upozorněni</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Až bude aktualizace připravena pro instalaci, budete upozorněn.</string>
   <string name="pending_update_header">Je dostupná aktualizace systému</string>
   <string name="pending_update_notification">Aktualizace systému je připravena</string>

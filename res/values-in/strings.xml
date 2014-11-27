@@ -9,8 +9,8 @@
   <string name="download_button">Mengunduh pembaruan</string>
   <string name="install_button">Pasang pembaruan</string>
   <string name="nothing_found_desc">Tida ada pembaruan tersedia untuk sistem anda pada pemeriksaan terakhir, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Pembaruan CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, tersedia untuk tablet anda. Anda akan diberitahu jika pembaruan siap dipasang</string>
-  <string name="generic_update_desc" product="default">Pembaruan CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, tersedia untuk telepon anda. Anda akan diberitahu jika pembaruan siap dipasang</string>
+  <string name="generic_update_desc" product="tablet">Pembaruan Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, tersedia untuk tablet anda. Anda akan diberitahu jika pembaruan siap dipasang</string>
+  <string name="generic_update_desc" product="default">Pembaruan Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, tersedia untuk telepon anda. Anda akan diberitahu jika pembaruan siap dipasang</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Anda akan diberitahu jika pembaruan siap dipasang</string>
   <string name="pending_update_header">Pembaruan tersedia untuk sistem anda</string>
   <string name="pending_update_notification">Pembaruan sistem siap</string>

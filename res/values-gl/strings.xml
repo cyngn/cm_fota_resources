@@ -9,8 +9,6 @@
   <string name="download_button">Descargar actualización</string>
   <string name="install_button">Instalar actualización</string>
   <string name="nothing_found_desc">Non se atoparon actualizacións a última vez que se comprobou, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Está disponible a actualización <xliff:g id="version">%1$s</xliff:g> para tablets para CyanogenMod. Enviaremos unha notificación cando estea lista para instalar</string>
-  <string name="generic_update_desc" product="default">Está disponible a actualización <xliff:g id="version">%1$s</xliff:g> para móviles para CyanogenMod. Enviaremos unha notificación cando estea lista para instalar</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Enviaremos unha notificación cando estea lista para instalar</string>
   <string name="pending_update_header">Hai unha actualicación dispoñíble para o sistema</string>
   <string name="pending_update_notification">A actualización do sistema está preparada</string>

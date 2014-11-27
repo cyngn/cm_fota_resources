@@ -9,8 +9,8 @@
   <string name="download_button">යාවත්කාලීනය බාගන්න</string>
   <string name="install_button">යාවත්කාලීනය ස්ථාපනය කරන්න</string>
   <string name="nothing_found_desc">අවසන් පිරික්සීමේදී ඔබගේ පද්ධතිය සඳහා යාවත්කාලීනයක් නොතිබුණි, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">ඔබගේ ටැබ්ලටය සඳහා CyanogenMod යාවත්කාලීනයක් (<xliff:g id="version">%1$s</xliff:g>) තිබේ. එය ස්ථාපනයට සූදානම්විට ඔබට දැනුම්දෙනු ඇත</string>
-  <string name="generic_update_desc" product="default">ඔබගේ දුරකථනය සඳහා CyanogenMod යාවත්කාලීනයක් (<xliff:g id="version">%1$s</xliff:g>) තිබේ. එය ස්ථාපනයට සූදානම්විට ඔබට දැනුම්දෙනු ඇත</string>
+  <string name="generic_update_desc" product="tablet">ඔබගේ ටැබ්ලටය සඳහා CyanogenMod යාවත්කාලීනයක්, <xliff:g id="version">%1$s</xliff:g> තිබේ. එය ස්ථාපනයට සූදානම් විට ඔබට දැනුම්දෙනු ඇත</string>
+  <string name="generic_update_desc" product="default">ඔබගේ දුරකථනය සඳහා CyanogenMod යාවත්කාලීනයක්, <xliff:g id="version">%1$s</xliff:g> තිබේ. එය ස්ථාපනයට සූදානම් විට ඔබට දැනුම්දෙනු ඇත</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. ස්ථාපනය සඳහා සූදානම්විට ඔබට දැනුම් දෙනු ඇත</string>
   <string name="pending_update_header">ඔබගේ පද්ධතිය සඳහා යාවත්කාලීනයක් ඇත</string>
   <string name="pending_update_notification">පද්ධති යාවත්කාලීනය සූදානම්ය</string>

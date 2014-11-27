@@ -9,8 +9,6 @@
   <string name="download_button">下载更新</string>
   <string name="install_button">安装更新</string>
   <string name="nothing_found_desc">自上次检查后您的系统暂无更新， <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">您的平板有一个 CyanogenMod 更新可用，<xliff:g id="version">%1$s</xliff:g> 。当准备安装的时候将通知您。</string>
-  <string name="generic_update_desc" product="default">您的设备有一个 CyanogenMod 更新， <xliff:g id="version">%1$s</xliff:g>, 可用。当它准备安装的时候将通知您</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. 当它准备安装的时候将通知您</string>
   <string name="pending_update_header">您的系统有一个可用更新</string>
   <string name="pending_update_notification">系统更新准备就绪</string>
