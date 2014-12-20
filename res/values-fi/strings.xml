@@ -9,7 +9,10 @@
   <string name="download_button">Lataa päivitys</string>
   <string name="install_button">Asenna päivitys</string>
   <string name="nothing_found_desc">Päivityksiä ei ollut saatavilla viimeksi tarkistettaessa, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">Cyanogen OS päivitys, <xliff:g id="version">%1$s</xliff:g>, on saatavilla tabletillesi. Sinulle ilmoitetaan, kun se on valmis asennettavaksi</string>
+  <string name="generic_update_desc" product="default">Cyanogen OS päivitys, <xliff:g id="version">%1$s</xliff:g>, on saatavilla puhelimellesi. Sinulle ilmoitetaan, kun se on valmis asennettavaksi</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Sinulle ilmoitetaan, kun se on valmis asennettavaksi</string>
+  <string name="update_size">Päivityksen koko: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Päivitys saatavilla</string>
   <string name="pending_update_notification">Päivitys on valmis</string>
   <string name="pending_download_notification">Päivitys on saatavilla</string>

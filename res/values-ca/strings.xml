@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">Una actualització de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, està disponible per a la teva tauleta. Seràs notificat quan estigui llesta per instal·lar-la</string>
   <string name="generic_update_desc" product="default">Una actualització de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, està disponible per al teu telèfon. Seràs notificat quan estigui llesta per instal·lar-la</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>.  Seràs notificat quan estigui llesta per instal·lar-la</string>
+  <string name="update_size">Mida de l\'actualització: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Hi ha una actualització disponible pel teu sistema</string>
   <string name="pending_update_notification">L\'actualització del sistema està preparada</string>
   <string name="pending_download_notification">Hi ha una actualització del sistema disponible</string>

@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">Un aggiornamento di Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, è disponibile per il tuo tablet. Sarai avvisato quando sarà pronto per l\'installazione</string>
   <string name="generic_update_desc" product="default">Un aggiornamento di Cyanogen OS, <xliff:g id="version">%1$s</xliff:g> è disponibile per il tuo telefono. Sarai avvisato quando sarà pronto per l\'installazione</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Sarai avvisato quando sarà pronto per l\'installazione</string>
+  <string name="update_size">Dimensione aggiornamento: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Un aggiornamento per il sistema è disponibile</string>
   <string name="pending_update_notification">Aggiornamento del sistema pronto</string>
   <string name="pending_download_notification">Aggiornamento del sistema disponibile</string>

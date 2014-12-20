@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели планшета. Когда оно будет готово к установке, будет выведено уведомление</string>
   <string name="generic_update_desc" product="default">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели телефона. Когда оно будет готово к установке, будет выведено уведомление</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Когда оно будет готово к установке, будет выведено уведомление.</string>
+  <string name="update_size">Размер обновления: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Доступно обновление для вашего устройства</string>
   <string name="pending_update_notification">Обновление готово к установке</string>
   <string name="pending_download_notification">Доступно обновление системы</string>

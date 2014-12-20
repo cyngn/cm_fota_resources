@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">En CyanogenMod oppdatering, <xliff:g id="version"> %1$s </xliff:g>, er tilgjengelig for tabletten din. Du vil bli varslet når det er klart for installasjon</string>
   <string name="generic_update_desc" product="default">En CyanogenMod oppdatering, <xliff:g id="version"> %1$s </xliff:g>, er tilgjengelig for telefonen. Du vil bli varslet når det er klart for installasjon</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du vil få beskjed når det er klart for installasjon</string>
+  <string name="update_size">Oppdateringsstørrelse: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">En oppdatering er tilgjengelig for systemet</string>
   <string name="pending_update_notification">Systemoppdatering er klar</string>
   <string name="pending_download_notification">System oppdatering er tilgjengelig</string>

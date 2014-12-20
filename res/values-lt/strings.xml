@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">„CyanogenMod“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra galimas jūsų planšetiniam kompiuteriui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
   <string name="generic_update_desc" product="default">„CyanogenMod“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra galimas jūsų telefonui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
+  <string name="update_size">Atnaujinimo dydis: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Jūsų sistemai yra galimas atnaujinimas</string>
   <string name="pending_update_notification">Paruoštas sistemos atnaujinimas</string>
   <string name="pending_download_notification">Galimas sistemos atnaujinimas</string>
