@@ -12,6 +12,7 @@
   <string name="generic_update_desc" product="tablet">Aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, je dostupná pro váš tablet. Až bude aktualizace připravená k instalace, budete upozorněni</string>
   <string name="generic_update_desc" product="default">Aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, je dostupná pro váš telefon. Až bude aktualizace připravená k instalace, budete upozorněni</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Až bude aktualizace připravena pro instalaci, budete upozorněn.</string>
+  <string name="update_size">Velikost aktualizace: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Je dostupná aktualizace systému</string>
   <string name="pending_update_notification">Aktualizace systému je připravena</string>
   <string name="pending_download_notification">Je dostupná aktualizace systému</string>

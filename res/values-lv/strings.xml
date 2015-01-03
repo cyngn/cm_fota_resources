@@ -8,8 +8,11 @@
   <string name="cancel_button">Atcelt atjaunošanu</string>
   <string name="download_button">Lejuplādēt atjaunojumu</string>
   <string name="install_button">Uzstādīt atjaunojumu</string>
-  <string name="nothing_found_desc">Pēdējā pārbaudē, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> jūsu sistēma nekādi atjaunojumi netika atrasti</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Jums paziņos, kad tas ir gatavs uzstādīšanai</string>
+  <string name="nothing_found_desc">Pēdējā pārbaudē, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> jūsu sistēmai atjaunojumi netika atrasti</string>
+  <string name="generic_update_desc" product="tablet">Jūsu planšetei ir pieejams Cyanogen sistēmas  atjaunojums <xliff:g id="version">%1$s</xliff:g>. Jums tiks paziņots, kat tas ir gatavs uzstādīšanai</string>
+  <string name="generic_update_desc" product="default">Jūsu telefonam ir pieejams Cyanogen sistēmas  atjaunojums <xliff:g id="version">%1$s</xliff:g>. Jums tiks paziņots, kat tas ir gatavs uzstādīšanai</string>
+  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Jums paziņos, kad tas būs gatavs uzstādīšanai</string>
+  <string name="update_size">Atjaunojuma izmērs: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Jūsu sistēmai ir pieejams atjaunojums</string>
   <string name="pending_update_notification">Sistēmas atjaunojums ir gatavs</string>
   <string name="pending_download_notification">Ir pieejams sistēmas atjaunojums</string>
