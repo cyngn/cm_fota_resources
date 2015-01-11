@@ -9,7 +9,10 @@
   <string name="download_button">Descargar l\'anovamientu</string>
   <string name="install_button">Instalar l\'anovamientu</string>
   <string name="nothing_found_desc">Nun hebo anovamientos disponibles pal to sistema na cabera comprobación, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">Esiste un anovamientu de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, disponible pa la to tablet. El sistema va avisate cuando tea preparáu pa instalar</string>
+  <string name="generic_update_desc" product="default">Esiste un anovamientu de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, disponible pal to teléfonu. El sistema va avisate cuando tea preparáu pa instalar</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. El sistema va avisate cuando tea preparáu pa instalase</string>
+  <string name="update_size">Tamañu del anovamientu: <xliff:g id="size">%1$s </xliff:g></string>
   <string name="pending_update_header">Hai un anovamientu disponible pal to sistema</string>
   <string name="pending_update_notification">Hai un anovamientu disponible pa instalar</string>
   <string name="pending_download_notification">Hai un anovamientu disponible</string>

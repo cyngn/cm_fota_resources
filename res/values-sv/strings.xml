@@ -9,7 +9,10 @@
   <string name="download_button">Ladda ned uppdatering</string>
   <string name="install_button">Installera uppdatering</string>
   <string name="nothing_found_desc">Inga uppdateringar fanns tillgängliga för ditt system vid senaste sökningen, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">En Cyanogen OS-uppdatering, <xliff:g id="version">%1$s</xliff:g>, finns tillgänglig för din surfplatta. Du kommer att meddelas när den är redo för installation</string>
+  <string name="generic_update_desc" product="default">En Cyanogen OS-uppdatering, <xliff:g id="version">%1$s</xliff:g>, finns tillgänglig för din telefon. Du kommer att meddelas när den är redo för installation</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du kommer att meddelas när den är klar för installation</string>
+  <string name="update_size">Uppdateringsstorlek: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">En uppdatering finns tillgänglig för ditt system</string>
   <string name="pending_update_notification">Systemuppdatering redo</string>
   <string name="pending_download_notification">Systemuppdatering tillgänglig</string>
