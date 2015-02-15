@@ -4,4 +4,6 @@
   <string name="app_name">সিস্টেম আধুনিকীকরণ</string>
   <string name="default_header">আপনার সিস্টেম আপ-টু-ডেট</string>
   <string name="default_button">হাল নাগাদের জন্য পরীক্ষা করুন</string>
+  <string name="download_button">হালনাগাদ ডাউনলোড করুন</string>
+  <string name="install_button">হালনাগাদ ইনস্টল করুন</string>
 </resources>
