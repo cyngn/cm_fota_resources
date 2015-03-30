@@ -16,4 +16,7 @@
   <string name="pending_update_header">Sisteminiz için bir güncelleme mevcut</string>
   <string name="pending_update_notification">Sistem güncellemesi hazır</string>
   <string name="pending_download_notification">Sistem güncellemesi mevcut</string>
+  <string name="update_recovery_title">Cyanogen kurtarma modunu güncelle</string>
+  <string name="update_recovery_message">UYARI: Cyanogen kurtarma modunu güncelleme devre dışı. Bu durum cihazınızı güncellerken sorunlara yol açabilir.\n\nLütfen Geliştirici seçeneklerinden <i>Cyanogen kurtarma modunu güncelle</i> seçeneğini etkinleştirin.</string>
+  <string name="ignore">Yoksay</string>
 </resources>

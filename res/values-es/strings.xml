@@ -16,4 +16,7 @@
   <string name="pending_update_header">Existe una actualización disponible para tu sistema</string>
   <string name="pending_update_notification">Existe una actualización lista para ser instalada</string>
   <string name="pending_download_notification">Existe una actualización para ser descargada</string>
+  <string name="update_recovery_title">Actualizar recovery de Cyanogen</string>
+  <string name="update_recovery_message">AVISO: La actualización del recovery de Cyanogen está deshabilitada. Esto puede causar problemas con la actualización del dispositivo.\n\nPor favor, habilita <i>Actualizar recovery de Cyanogen</i> en las opciones de desarrollo.</string>
+  <string name="ignore">Ignorar</string>
 </resources>

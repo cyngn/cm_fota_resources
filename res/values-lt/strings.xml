@@ -16,4 +16,7 @@
   <string name="pending_update_header">Jūsų sistemai yra galimas atnaujinimas</string>
   <string name="pending_update_notification">Paruoštas sistemos atnaujinimas</string>
   <string name="pending_download_notification">Galimas sistemos atnaujinimas</string>
+  <string name="update_recovery_title">Atnaujinti „Cyanogen“ atkūrimo programą</string>
+  <string name="update_recovery_message">ĮSPĖJIMAS: „Cyanogen“ atkūrimo programos atnaujinimas yra nepasiekimas. Tai gali sukelti problemų atnaujinant jūsų įrenginį.\n\nPrašome įgalinti <i>Atnaujinti „Cyanogen“ atkūrimo programą</i> Kūrėjo parinktyse.</string>
+  <string name="ignore">Ignoruoti</string>
 </resources>

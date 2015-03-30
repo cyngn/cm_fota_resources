@@ -16,4 +16,7 @@
   <string name="pending_update_header">お使いのシステムでアップデートが利用可能です</string>
   <string name="pending_update_notification">システムアップデートの準備ができました</string>
   <string name="pending_download_notification">システムアップデートが利用可能です</string>
+  <string name="update_recovery_title">Cyanogenリカバリーをアップデート</string>
+  <string name="update_recovery_message">警告: Cyanogenリカバリーの更新が無効になっているため、端末のアップデートで問題が発生する可能性があります。\n\n開発者向けオプションの<i>Cyanogenリカバリーをアップデート</i>を有効にしてください。</string>
+  <string name="ignore">無視</string>
 </resources>

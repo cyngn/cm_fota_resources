@@ -16,4 +16,7 @@
   <string name="pending_update_header">您的系统有一个可用更新</string>
   <string name="pending_update_notification">系统更新准备就绪</string>
   <string name="pending_download_notification">系统更新可用</string>
+  <string name="update_recovery_title">更新 Cyanogen 恢复模式</string>
+  <string name="update_recovery_message">警告：更新 Cyanogen 恢复模式已被禁用。这可能导致在更新您的设备时遇到问题。\n\n请在开发者选项中启用<i>更新 Cyanogen 恢复系统</i>。</string>
+  <string name="ignore">忽略</string>
 </resources>

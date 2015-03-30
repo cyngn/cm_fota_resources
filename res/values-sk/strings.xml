@@ -16,4 +16,7 @@
   <string name="pending_update_header">K dispozícii je aktualizácia systému</string>
   <string name="pending_update_notification">Aktualizácia systému je pripravená</string>
   <string name="pending_download_notification">Aktualizácia systému je k dispozícii</string>
+  <string name="update_recovery_title">Aktualizovať Cyanogen recovery</string>
+  <string name="update_recovery_message">UPOZORNENIE: Aktualizácia Cyanogen recovery je zakázaná. Toto môže spôsobiť problémy s aktualizáciou Vášho zariadenia.\n\nProsím, povoľte <i>Aktualizáciu Cyanogen recovery</i> v možnostiach pre vývojára.</string>
+  <string name="ignore">Ignorovať</string>
 </resources>

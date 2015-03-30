@@ -16,4 +16,7 @@
   <string name="pending_update_header">Päivitys saatavilla</string>
   <string name="pending_update_notification">Päivitys on valmis</string>
   <string name="pending_download_notification">Päivitys on saatavilla</string>
+  <string name="update_recovery_title">Päivitä Cyanogen Recovery</string>
+  <string name="update_recovery_message">VAROITUS: Cyanogenin Recovery-tilan päivitys on poistettu käytöstä. Tämä voi aiheuttaa ongelmia laitteen päivityksessä.\n\nOta <i>Päivitä Cyanogen Recovery</i> käyttöön kehittäjäasetuksista.</string>
+  <string name="ignore">Ohita</string>
 </resources>

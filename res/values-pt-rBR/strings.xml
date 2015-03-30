@@ -16,4 +16,7 @@
   <string name="pending_update_header">Uma atualização está disponível para o seu sistema</string>
   <string name="pending_update_notification">A atualização para o sistema está pronta</string>
   <string name="pending_download_notification">Está disponivél uma atualização para o sistema</string>
+  <string name="update_recovery_title">Atualizar a recuperação Cyanogen</string>
+  <string name="update_recovery_message">Aviso: A atualização da recuperação Cyanogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor, ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de desenvolvedor.</string>
+  <string name="ignore">Ignorar</string>
 </resources>

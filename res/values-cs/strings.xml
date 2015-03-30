@@ -16,4 +16,7 @@
   <string name="pending_update_header">Je dostupná aktualizace systému</string>
   <string name="pending_update_notification">Aktualizace systému je připravena</string>
   <string name="pending_download_notification">Je dostupná aktualizace systému</string>
+  <string name="update_recovery_title">Aktualizovat Cyanogen recovery</string>
+  <string name="update_recovery_message">Varování: Aktualizace Cyanogen recovery je vypnutá. To může způsobit problémy při aktualizaci vašeho zařízení.\n\nProsím zapněte <i>Aktualizaci Cyanogen recovery</i> v Možnostech pro vývojáře.</string>
+  <string name="ignore">Ignorovat</string>
 </resources>
