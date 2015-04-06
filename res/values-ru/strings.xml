@@ -16,4 +16,7 @@
   <string name="pending_update_header">Доступно обновление для вашего устройства</string>
   <string name="pending_update_notification">Обновление готово к установке</string>
   <string name="pending_download_notification">Доступно обновление системы</string>
+  <string name="update_recovery_title">Обновление режима восстановления</string>
+  <string name="update_recovery_message">Внимание: перезапись режима восстановления отключена. Это может вызвать проблемы с установкой обновлений.\n\nВключите опцию <i>«Обновлять режим восстановления»</i> в настройках для разработчиков.</string>
+  <string name="ignore">Пропустить</string>
 </resources>

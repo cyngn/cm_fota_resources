@@ -16,4 +16,7 @@
   <string name="pending_update_header">En opdatering er tilgængelig til dit system</string>
   <string name="pending_update_notification">Systemopdatering er klar</string>
   <string name="pending_download_notification">Systemopdatering er tilgængelig</string>
+  <string name="update_recovery_title">Opdatér Cyanogen recovery</string>
+  <string name="update_recovery_message">Advarsel: Opdatering af Cyanogen recovery er deaktiveret. Dette kan forårsage problemer med opdatering af din enhed.\n\nAktivér venligst <i>Opdatering af Cyanogen recovery</i> i indstillinger for udviklere.</string>
+  <string name="ignore">Ignorér</string>
 </resources>

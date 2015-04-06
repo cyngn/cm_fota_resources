@@ -16,4 +16,7 @@
   <string name="pending_update_header">Une mise à jour est disponible pour votre système</string>
   <string name="pending_update_notification">Mise à jour système prête</string>
   <string name="pending_download_notification">Mise à jour système disponible</string>
+  <string name="update_recovery_title">Mettre à jour le recovery Cyanogen</string>
+  <string name="update_recovery_message">ATTENTION : La mise à jour du recovery Cyanogen est désactivée. Cela peut provoquer des problèmes avec la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour le recovery Cyanogen</i> dans les Options pour les développeurs.</string>
+  <string name="ignore">Ignorer</string>
 </resources>

@@ -16,4 +16,7 @@
   <string name="pending_update_header">עדכון קיים למערכת שלך</string>
   <string name="pending_update_notification">עדכון מערכת מוכן</string>
   <string name="pending_download_notification">עדכון מערכת זמין</string>
+  <string name="update_recovery_title">עדכן את ה-Recovery של Cyanogen</string>
+  <string name="update_recovery_message">אזהרה: עדכון ה-Recovery של Cyanogen מבוטל. מצב זה עלול לגרום לתקלות בעת עדכון מכשירך.\n\n אנא הפעל את האפשרות <i>עדכן את ה-Recovery של Cyanogen</i> באפשרויות המפתחים.</string>
+  <string name="ignore">התעלם</string>
 </resources>
