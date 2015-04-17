@@ -4,7 +4,7 @@
   <string name="app_name">Ενημερώσεις συστήματος</string>
   <string name="default_header">Το σύστημά σας είναι ενημερωμένο</string>
   <string name="default_desc">Πατήστε το κουμπί για να ελέγξετε για ενημερώσεις</string>
-  <string name="default_button">Έλεγχος για ενημερώσεις</string>
+  <string name="default_button">Έλεγχος ενημερώσεων</string>
   <string name="cancel_button">Ακύρωση ενημέρωσης</string>
   <string name="download_button">Λήψη ενημέρωσης</string>
   <string name="install_button">Εγκατάσταση ενημέρωσης</string>
@@ -16,4 +16,7 @@
   <string name="pending_update_header">Υπάρχει διαθέσιμη ενημέρωση για το σύστημά σας</string>
   <string name="pending_update_notification">Η ενημέρωση συστήματος είναι έτοιμη</string>
   <string name="pending_download_notification">Υπάρχει διαθέσιμη ενημέρωση συστήματος</string>
+  <string name="update_recovery_title">Ενημέρωση Cyanogen recovery</string>
+  <string name="update_recovery_message">ΠΡΟΣΟΧΗ: Η ενημέρωση της Cyanogen recovery είναι απενεργοποιημένη. Αυτό μπορεί να προκαλέσει προβλήματα κατά την ενημέρωση της συσκευής σας.\n\nΠαρακαλούμε ενεργοποιήστε την επιλογή <i>Ενημέρωση Cyanogen recovery</i> στις επιλογές για προγραμματιστές.</string>
+  <string name="ignore">Παράβλεψη</string>
 </resources>

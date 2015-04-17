@@ -16,4 +16,7 @@
   <string name="pending_update_header">Ажурирање је доступно за твој систем</string>
   <string name="pending_update_notification">Системско ажурирање је спремно</string>
   <string name="pending_download_notification">Системско ажурирање је доступно</string>
+  <string name="update_recovery_title">Ажурирај Cyanogen опоравак</string>
+  <string name="update_recovery_message">УПОЗОРЕЊЕ: Ажурирање Cyanogen опоравка је онемогућено. Ово може створити проблеме са ажурирањем уређаја.\n\nОмогући<i>Ажурирање Cyanogen опоравка</i> у опцијама програмера.</string>
+  <string name="ignore">Игнориши</string>
 </resources>

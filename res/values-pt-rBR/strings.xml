@@ -15,5 +15,8 @@
   <string name="update_size">Tamanho da atualização: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Uma atualização está disponível para o seu sistema</string>
   <string name="pending_update_notification">A atualização para o sistema está pronta</string>
-  <string name="pending_download_notification">Está disponivél uma atualização para o sistema</string>
+  <string name="pending_download_notification">Uma atualização do sistema está disponível</string>
+  <string name="update_recovery_title">Atualizar o recovery da Cyanogen</string>
+  <string name="update_recovery_message">Aviso: A atualização da recuperação Cyanogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de desenvolvedor.</string>
+  <string name="ignore">Ignorar</string>
 </resources>

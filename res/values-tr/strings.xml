@@ -8,12 +8,15 @@
   <string name="cancel_button">Güncellemeyi iptal et</string>
   <string name="download_button">Güncellemeyi indir</string>
   <string name="install_button">Güncellemeyi yükle</string>
-  <string name="nothing_found_desc"><xliff:g id="date" example="4 hours ago">%1$s</xliff:g>, son kontrolde sisteminiz için güncelleme bulunamadı</string>
-  <string name="generic_update_desc" product="tablet">Tabletiniz için CyanogenMod OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
-  <string name="generic_update_desc" product="default">Telefonunuz için CyanogenMod OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
+  <string name="nothing_found_desc">Son kontrolde (<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>) sisteminiz için güncelleme bulunamadı</string>
+  <string name="generic_update_desc" product="tablet">Tabletiniz için Cyanogen İS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
+  <string name="generic_update_desc" product="default">Telefonunuz için Cyanogen İS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklemeye hazır olduğunda bildirileceksiniz</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Yüklemeye hazır olduğunda bildirileceksiniz</string>
   <string name="update_size">Güncelleme boyutu: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Sisteminiz için bir güncelleme mevcut</string>
   <string name="pending_update_notification">Sistem güncellemesi hazır</string>
   <string name="pending_download_notification">Sistem güncellemesi mevcut</string>
+  <string name="update_recovery_title">Cyanogen kurtarma modunu güncelle</string>
+  <string name="update_recovery_message">UYARI: Cyanogen kurtarma modunu güncelleme devre dışı. Bu durum cihazınızı güncellerken sorunlara yol açabilir.\n\nLütfen Geliştirici seçeneklerinden <i>Cyanogen kurtarma modunu güncelle</i> seçeneğini etkinleştirin.</string>
+  <string name="ignore">Yoksay</string>
 </resources>

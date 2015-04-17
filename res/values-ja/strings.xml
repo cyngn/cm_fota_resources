@@ -3,17 +3,20 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">システムアップデート</string>
   <string name="default_header">システムは最新の状態です</string>
-  <string name="default_desc">ボタンを押すとアップデートを確認します</string>
+  <string name="default_desc">ボタンを押してアップデートを確認する</string>
   <string name="default_button">アップデートを確認</string>
   <string name="cancel_button">アップデートをキャンセル</string>
   <string name="download_button">アップデートをダウンロード</string>
   <string name="install_button">アップデートをインストール</string>
-  <string name="nothing_found_desc">前回の確認ではお使いのシステムへのアップデートはありませんでした（<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>）</string>
-  <string name="generic_update_desc" product="tablet">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いのタブレットで利用可能です。インストールの準備ができたらお知らせします。</string>
-  <string name="generic_update_desc" product="default">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いの携帯電話で利用可能です。インストールの準備ができたらお知らせします。</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>。インストールの準備ができたらお知らせします。</string>
+  <string name="nothing_found_desc">前回の確認（<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>）ではお使いのシステムへの利用可能なアップデートはありませんでした</string>
+  <string name="generic_update_desc" product="tablet">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いのタブレットで利用可能です。インストールの準備ができたら通知します。</string>
+  <string name="generic_update_desc" product="default">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いの携帯電話で利用可能です。インストールの準備ができたら通知します。</string>
+  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>。インストールの準備ができたら通知します。</string>
   <string name="update_size">アップデートサイズ: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">お使いのシステムでアップデートが利用可能です</string>
   <string name="pending_update_notification">システムアップデートの準備ができました</string>
   <string name="pending_download_notification">システムアップデートが利用可能です</string>
+  <string name="update_recovery_title">Cyanogenリカバリーをアップデート</string>
+  <string name="update_recovery_message">警告: Cyanogenリカバリーの更新が無効になっているため、端末のアップデートで問題が発生する可能性があります。\n\n開発者向けオプションの<i>Cyanogenリカバリーをアップデート</i>を有効にしてください。</string>
+  <string name="ignore">無視</string>
 </resources>

@@ -4,16 +4,19 @@
   <string name="app_name">Atualizações do sistema</string>
   <string name="default_header">O seu sistema está atualizado</string>
   <string name="default_desc">Pressione o botão para verificar se há atualizações</string>
-  <string name="default_button">Procurar atualizações</string>
+  <string name="default_button">Verificar por atualizações</string>
   <string name="cancel_button">Cancelar a atualização</string>
-  <string name="download_button">Descarregar a atualização</string>
+  <string name="download_button">Transferir a atualização</string>
   <string name="install_button">Instalar a atualização</string>
   <string name="nothing_found_desc">Não foram encontradas atualizações para o seu sistema na ultima verificação, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">A atualização do SO Cyanogen, <xliff:g id="version">%1$s</xliff:g>, está disponível para o seu tablet. Será avisado quando estiver pronta para a instalação</string>
-  <string name="generic_update_desc" product="default">A atualização do SO Cyanogen, <xliff:g id="version">%1$s</xliff:g>, está disponível para o seu telefone. Será avisado quando estiver pronta para a instalação</string>
+  <string name="generic_update_desc" product="tablet">A atualização Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponível para o seu tablet. Será avisado quando estiver pronta para a instalação</string>
+  <string name="generic_update_desc" product="default">A atualização Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponível para o seu telefone. Será avisado quando estiver pronta para a instalação</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Será avisado quando estiver pronta para a instalação</string>
   <string name="update_size">Tamanho da atualização: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Uma atualização está disponível para o seu sistema</string>
   <string name="pending_update_notification">A atualização para o sistema está pronta</string>
-  <string name="pending_download_notification">Está disponivél uma atualização para o sistema</string>
+  <string name="pending_download_notification">Está disponível uma atualização para o sistema</string>
+  <string name="update_recovery_title">Atualizar a recuperação Cyanogen</string>
+  <string name="update_recovery_message">AVISO: A atualização da recuperação Cianogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de programador.</string>
+  <string name="ignore">Ignorar</string>
 </resources>

@@ -9,11 +9,14 @@
   <string name="download_button">업데이트 다운로드</string>
   <string name="install_button">업데이트 설치</string>
   <string name="nothing_found_desc">현재 OS에서 최신 소프트웨어 버전을 사용하고 있습니다.  최근 확인: <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">태블릿에서 Cyanogen OS 업데이트 <xliff:g id="version">%1$s</xliff:g>을(를) 사용할 수 있습니다. 설치할 준비가 되면 알려드리겠습니다.</string>
-  <string name="generic_update_desc" product="default">휴대전화에서 Cyanogen OS 업데이트 <xliff:g id="version">%1$s</xliff:g>을(를) 사용할 수 있습니다. 설치할 준비가 되면 알려드리겠습니다.</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. 설치할 준비가 되면 알려드리겠습니다.</string>
+  <string name="generic_update_desc" product="tablet">태블릿에서 Cyanogen OS 업데이트 <xliff:g id="version">%1$s</xliff:g>을(를) 사용할 수 있습니다. 설치할 준비가 되면 알려드리겠습니다</string>
+  <string name="generic_update_desc" product="default">휴대전화에서 Cyanogen OS 업데이트 <xliff:g id="version">%1$s</xliff:g>을(를) 사용할 수 있습니다. 설치할 준비가 되면 알려드리겠습니다</string>
+  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. 설치할 준비가 되면 알려드리겠습니다</string>
   <string name="update_size">업데이트 크기: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">사용 가능한 업데이트가 있습니다</string>
   <string name="pending_update_notification">시스템을 업데이트할 준비가 되었습니다</string>
   <string name="pending_download_notification">시스템 업데이트를 사용할 수 있습니다</string>
+  <string name="update_recovery_title">Cyanogen 리커버리 업데이트</string>
+  <string name="update_recovery_message">경고: Cyanogen 리커버리 업데이트를 사용하지 않도록 설정되어 있습니다. 기기 업데이트에 문제가 발생할 수도 있습니다.\n\n개발자 옵션에서 <i>Cyanogen 리커버리 업데이트</i>를 활성화하십시오.</string>
+  <string name="ignore">무시</string>
 </resources>

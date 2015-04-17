@@ -16,4 +16,7 @@
   <string name="pending_update_header">Frissítés érhető el a rendszerére</string>
   <string name="pending_update_notification">Rendszerfrissítés kész</string>
   <string name="pending_download_notification">Rendszerfrissítés érhető el</string>
+  <string name="update_recovery_title">CM recovery frissítése</string>
+  <string name="update_recovery_message">FIGYELEM: Cyanogen recovery frissítése letiltva. Ez problémákat okozhat készüléke frissítésekor.\n\nEngedélyezze a <i>Cyanogen recovery frissítése</i> opciót a Fejlesztői eszközök között.</string>
+  <string name="ignore">Figyelmen kívül hagy</string>
 </resources>

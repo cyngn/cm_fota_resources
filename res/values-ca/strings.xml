@@ -4,7 +4,7 @@
   <string name="app_name">Actualitzacions del sistema</string>
   <string name="default_header">El teu sistema està actualitzat</string>
   <string name="default_desc">Prem el botó per buscar actualitzacions</string>
-  <string name="default_button">Comprova si hi ha actualitzacions</string>
+  <string name="default_button">Busca actualitzacions</string>
   <string name="cancel_button">Cancel·la l\'actualització</string>
   <string name="download_button">Descarrega actualització</string>
   <string name="install_button">Instal·la actualització</string>
@@ -16,4 +16,7 @@
   <string name="pending_update_header">Hi ha una actualització disponible pel teu sistema</string>
   <string name="pending_update_notification">L\'actualització del sistema està preparada</string>
   <string name="pending_download_notification">Hi ha una actualització del sistema disponible</string>
+  <string name="update_recovery_title">Actualitza la recuperació de Cyanogen</string>
+  <string name="update_recovery_message">ADVERTÈNCIA: L\'actualització de la recuperació de Cyanogen està deshabilitada. Això pot causar problemes al actualitzar el teu dispositiu.\n\nSi us plau, habilita <i>Actualitza la recuperació de Cyanogen</i> a les opcions de desenvolupament.</string>
+  <string name="ignore">Ignora</string>
 </resources>

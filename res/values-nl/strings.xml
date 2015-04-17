@@ -16,4 +16,7 @@
   <string name="pending_update_header">Er is een update beschikbaar voor uw systeem</string>
   <string name="pending_update_notification">Systeemupdate staat klaar</string>
   <string name="pending_download_notification">Systeemupdate is beschikbaar</string>
+  <string name="update_recovery_title">Cyanogen-recovery bijwerken</string>
+  <string name="update_recovery_message">Let op: Cyanogen-recovery bijwerken is uitgeschakeld. Dit kan problemen veroorzaken met het bijwerken van uw apparaat.\n\nSchakel <i>Cyanogen-recovery bijwerken</i> in in de opties voor ontwikkelaars.</string>
+  <string name="ignore">Negeren</string>
 </resources>

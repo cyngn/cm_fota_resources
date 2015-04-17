@@ -3,17 +3,20 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Sistemos atnaujinimai</string>
   <string name="default_header">Jūsų sistema yra naujausia</string>
-  <string name="default_desc">Paspauskite mygtuką norėdami ieškoti atnaujinimų</string>
+  <string name="default_desc">Paspauskite mygtuką, kad ieškotumėtę atnaujinimų</string>
   <string name="default_button">Ieškoti atnaujinimų</string>
   <string name="cancel_button">Atšaukti atnaujinimą</string>
   <string name="download_button">Atsisiųsti atnaujinimą</string>
   <string name="install_button">Įdiegti atnaujinimą</string>
-  <string name="nothing_found_desc">Jokie atnaujinimai jūsų sistemai nebuvo galimi tikrinant <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">„CyanogenMod“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra galimas jūsų planšetiniam kompiuteriui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
-  <string name="generic_update_desc" product="default">„CyanogenMod“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra galimas jūsų telefonui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
+  <string name="nothing_found_desc">Jokie atnaujinimai jūsų sistemai nebuvo pasiekiami tikrinant, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">„Cyanogen“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra pasiekiamas jūsų planšetiniam kompiuteriui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
+  <string name="generic_update_desc" product="default">„Cyanogen“ OS atnaujinimas, <xliff:g id="version">%1$s</xliff:g>, yra pasiekiamas jūsų telefonui. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Jums bus pranešta, kai bus pasiruošta jo diegimui</string>
   <string name="update_size">Atnaujinimo dydis: <xliff:g id="size">%1$s</xliff:g></string>
-  <string name="pending_update_header">Jūsų sistemai yra galimas atnaujinimas</string>
-  <string name="pending_update_notification">Paruoštas sistemos atnaujinimas</string>
-  <string name="pending_download_notification">Galimas sistemos atnaujinimas</string>
+  <string name="pending_update_header">Jūsų sistemai yra pasiekiamas atnaujinimas</string>
+  <string name="pending_update_notification">Sistemos atnaujinimas paruoštas</string>
+  <string name="pending_download_notification">Pasiekiamas sistemos atnaujinimas</string>
+  <string name="update_recovery_title">Atnaujinti „Cyanogen“ atkūrimo programą</string>
+  <string name="update_recovery_message">ĮSPĖJIMAS: „Cyanogen“ atkūrimo programos atnaujinimas yra neleidžiamas. Tai gali sukelti problemų atnaujinant jūsų įrenginį.\n\nPrašome įgalinti <i>Atnaujinti „Cyanogen“ atkūrimo programą</i> Kūrėjo parinktyse.</string>
+  <string name="ignore">Ignoruoti</string>
 </resources>
