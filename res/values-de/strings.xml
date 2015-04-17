@@ -16,4 +16,7 @@
   <string name="pending_update_header">Für Ihr System ist ein Update verfügbar</string>
   <string name="pending_update_notification">Systemupdate ist bereit zur Installation</string>
   <string name="pending_download_notification">Systemupdate ist verfügbar</string>
+  <string name="update_recovery_title">CM-Recovery aktualisieren</string>
+  <string name="update_recovery_message">ACHTUNG: Das Aktualisieren der Cyanogen-Recovery ist deaktiviert. Dies kann Probleme beim Aktualisieren Ihres Geräts verursachen.\n\nBitte aktivieren Sie <i>CM-Recovery aktualisieren</i> in den Entwicklereinstellungen.</string>
+  <string name="ignore">Ignorieren</string>
 </resources>

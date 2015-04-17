@@ -16,4 +16,7 @@
   <string name="pending_update_header">Hai un anovamientu disponible pal to sistema</string>
   <string name="pending_update_notification">Hai un anovamientu disponible pa instalar</string>
   <string name="pending_download_notification">Hai un anovamientu disponible</string>
+  <string name="update_recovery_title">Anovar col recovery de Cyanogen</string>
+  <string name="update_recovery_message">AVISO: L\'anovamientu del recovery de Cyanogen ta deshabilitáu. Esto pue causar problemes col anovamientu del preséu.\n\nPor favor, habilita <i>Anovar recovery de Cyanogen</i> nes opciones de desendolcu.</string>
+  <string name="ignore">Inorar</string>
 </resources>

@@ -16,4 +16,7 @@
   <string name="pending_update_header">사용 가능한 업데이트가 있습니다</string>
   <string name="pending_update_notification">시스템을 업데이트할 준비가 되었습니다</string>
   <string name="pending_download_notification">시스템 업데이트를 사용할 수 있습니다</string>
+  <string name="update_recovery_title">Cyanogen 리커버리 업데이트</string>
+  <string name="update_recovery_message">경고: Cyanogen 리커버리 업데이트가 불가능합니다. 이것은 기기 업데이트에 문제를 발생시킬 수 있습니다.\n\n개발자 옵션에서 <i>Cyanogen 리커버리 업데이트를</i> 활성화하십시오.</string>
+  <string name="ignore">무시</string>
 </resources>
