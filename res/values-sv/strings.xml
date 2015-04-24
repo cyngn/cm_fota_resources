@@ -16,4 +16,5 @@
   <string name="pending_update_header">En uppdatering finns tillgänglig för ditt system</string>
   <string name="pending_update_notification">Systemuppdatering redo</string>
   <string name="pending_download_notification">Systemuppdatering tillgänglig</string>
+  <string name="ignore">Ignorera</string>
 </resources>
