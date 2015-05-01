@@ -3,7 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Mises à jour système</string>
   <string name="default_header">Votre système est à jour</string>
-  <string name="default_desc">Appuyez sur le bouton pour vérifier les nouvelles mises à jour</string>
+  <string name="default_desc">Appuyez sur le bouton pour vérifier les mises à jour</string>
   <string name="default_button">Vérifier les mises à jour</string>
   <string name="cancel_button">Annuler la mise à jour</string>
   <string name="download_button">Télécharger la mise à jour</string>
