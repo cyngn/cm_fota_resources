@@ -4,13 +4,19 @@
   <string name="app_name">Sistemaren eguneraketak</string>
   <string name="default_header">Zure sistema eguneratuta dago</string>
   <string name="default_desc">Sakatu botoia eguneraketak bilatzeko</string>
-  <string name="default_button">Eguneraketak bilatu</string>
+  <string name="default_button">Bilatu eguneraketak</string>
   <string name="cancel_button">Eguneraketa ezeztu</string>
-  <string name="download_button">Eguneraketa deskargatu</string>
+  <string name="download_button">Deskargatu eguneraketa</string>
   <string name="install_button">Egunerageta instalatu</string>
   <string name="nothing_found_desc">Ez dira zure sistemarako eguneraketarik aurkitu azken bilaketan, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">Cyanogen OS bertsio berri bat dago eskuragarri zure tabletarentzat, <xliff:g id="version">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
+  <string name="generic_update_desc" product="default">Cyanogen OS bertsio berri bat dago eskuragarri zure telefonoarentzat, <xliff:g id="version">%1$s</xliff:g>. Instalatzeko prest dagoenean jakinaraziko dizu sistemak</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
+  <string name="update_size">Eguneraketaren tamaina: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Eguneraketa bat dago eskuragarri zure sistemarentzat</string>
   <string name="pending_update_notification">Eguneraketa instalatzeko prest dago</string>
-  <string name="pending_download_notification">Deskargatzeko eskuragarri dagoen eguneraketa bat dago</string>
+  <string name="pending_download_notification">Sistemaren eguneraketa eskuragarri</string>
+  <string name="update_recovery_title">Eguneratu Cyanogen berreskuratzea</string>
+  <string name="update_recovery_message">KONTUZ: Cyanogen berreskuratzea eguneratzea ezgaituta dago. Honek arazoak sor litzake gailua eguneratzean.\n\n Mesedez gaitu <i>Cyanogen berreskuratzea eguneratzea</i> garapen ezarpenetan.</string>
+  <string name="ignore">Ezikusi</string>
 </resources>
