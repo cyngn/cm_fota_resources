@@ -16,4 +16,7 @@
   <string name="pending_update_header">การปรับปรุงพร้อมใช้งานแล้วกับอุปกรณ์ของคุณ</string>
   <string name="pending_update_notification">พร้อมที่จะปรับปรุงรุ่นแล้ว</string>
   <string name="pending_download_notification">มีการปรับปรุงรุ่นใหม่</string>
+  <string name="update_recovery_title">ปรับปรุงรุ่น Cyanogen recovery</string>
+  <string name="update_recovery_message">คำเตือน: การปรับปรุงรุ่น Cyanogen Recovery ถูกปิดใช้งาน ซึ่งอาจก่อให้เกิดปัญหากับการปรับปรุงอุปกรณ์ของคุณ\n\nกรุณาเปิด <i>ปรับปรุงรุ่น Cyanogen Recovery</i>ในตัวเลือกสำหรับนักพัฒนา</string>
+  <string name="ignore">ละเว้น</string>
 </resources>
