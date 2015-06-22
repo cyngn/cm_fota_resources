@@ -5,7 +5,7 @@
   <string name="default_header">Zure sistema eguneratuta dago</string>
   <string name="default_desc">Sakatu botoia eguneraketak bilatzeko</string>
   <string name="default_button">Bilatu eguneraketak</string>
-  <string name="cancel_button">Eguneraketa ezeztu</string>
+  <string name="cancel_button">Bertan behera utzi eguneraketa</string>
   <string name="download_button">Deskargatu eguneraketa</string>
   <string name="install_button">Egunerageta instalatu</string>
   <string name="nothing_found_desc">Ez dira zure sistemarako eguneraketarik aurkitu azken bilaketan, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
