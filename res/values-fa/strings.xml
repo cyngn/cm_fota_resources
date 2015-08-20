@@ -6,7 +6,7 @@
   <string name="default_desc">برای بررسی به‌روزرسانی دکمه را فشار دهید</string>
   <string name="default_button">بررسی به‌روزرسانی</string>
   <string name="cancel_button">لغو بروزرسانی</string>
-  <string name="download_button">دریافت بروزرسانی</string>
+  <string name="download_button">دانلود بروزرسانی</string>
   <string name="install_button">نصب به‌روزرسانی</string>
   <string name="nothing_found_desc">در آخرین بررسی در <xliff:g id="date" example="4 hours ago">%1$s</xliff:g>، هیچ به‌روزرسانی برای سیستم شما وجود نداشت</string>
   <string name="generic_update_desc" product="tablet">یک به‌روزرسانی سیستم عامل سیانوژن، <xliff:g id="version">%1$s</xliff:g>، برای تبلت شما موجود است. هنگامی که این به‌روزرسانی برای نصب آماده شد به شما اطلاع می‌دهیم</string>
