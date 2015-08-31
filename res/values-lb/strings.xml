@@ -17,5 +17,6 @@
   <string name="pending_update_notification">Systemaktualiséierung ass prett fir installéiert ze ginn</string>
   <string name="pending_download_notification">Systemaktualiséierung disponibel</string>
   <string name="update_recovery_title">Cyanogen-Recovery aktualiséieren</string>
+  <string name="update_recovery_message">Opgepasst: D\'Aktualiséiere vun der Cyanogen-Recuperatioun ass desaktivéiert. Dës ka Problemer beim Aktualiséiere vum Apparat verursaachen.\n\nAktivéier w.e.g <i>Cyanogen-Recuperatioun aktualiséieren</i> an den Entwéckleroptiounen.</string>
   <string name="ignore">Ignoréieren</string>
 </resources>
