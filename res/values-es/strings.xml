@@ -4,19 +4,14 @@
   <string name="app_name">Actualizaciones del sistema</string>
   <string name="default_header">Tu sistema está actualizado</string>
   <string name="default_desc">Pulsa el botón para comprobar si hay actualizaciones disponibles</string>
-  <string name="default_button">Comprobar actualizaciones</string>
   <string name="cancel_button">Cancelar actualización</string>
   <string name="download_button">Descargar actualización</string>
   <string name="install_button">Instalar actualización</string>
-  <string name="nothing_found_desc">No hubo actualizaciones disponibles para tu sistema en la última comprobación, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Una actualización de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponible para tu tablet. Serás avisado cuando esté lista para ser instalada</string>
   <string name="generic_update_desc" product="default">Una actualización de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponible para tu teléfono. Serás avisado cuando esté lista para ser instalada</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Serás notificado cuando esté lista para ser instalada</string>
-  <string name="update_size">Tamaño de la actualización: <xliff:g id="size">%1$s</xliff:g></string>
-  <string name="pending_update_header">Una actualización está disponible para tu sistema</string>
-  <string name="pending_update_notification">Actualización del sistema lista</string>
-  <string name="pending_download_notification">Actualización del sistema disponible</string>
-  <string name="update_recovery_title">Actualizar el recovery de Cyanogen</string>
-  <string name="update_recovery_message">AVISO: La actualización del recovery de Cyanogen está deshabilitada. Esto puede causar problemas con la actualización del dispositivo.\n\nPor favor, habilita <i>Actualizar recovery de Cyanogen</i> en las opciones de desarrollo.</string>
+  <string name="update_size">Tamaño de la actualización: <xliff:g id="size">%1$s </xliff:g></string>
+  <string name="pending_update_header">Existe una actualización disponible para tu sistema</string>
+  <string name="pending_update_notification">Actualización del sistema lista para ser instalada</string>
+  <string name="pending_download_notification">Actualización del sistema lista para ser descargada</string>
   <string name="ignore">Ignorar</string>
 </resources>
