@@ -15,5 +15,6 @@
   <string name="pending_update_notification">Actualizarea de sistem este gata</string>
   <string name="pending_download_notification">Este disponibilă o actualizare de sistem</string>
   <string name="update_recovery_title">Actualizează Cyanogen recovery</string>
+  <string name="update_recovery_message">Avertisment: Actualizarea recovery Cyanogen este dezactivată. Acest lucru poate cauza probleme la actualizarea dispozitivului.\n\nVă rugăm să activați <i>Actualizare recuperare Cyanogen</i> în opțiunile de dezvoltator.</string>
   <string name="ignore">Ignoră</string>
 </resources>
