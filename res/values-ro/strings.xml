@@ -8,7 +8,9 @@
   <string name="cancel_button">Anulare actualizare</string>
   <string name="download_button">Descarcă actualizare</string>
   <string name="install_button">Instalare actualizare</string>
-  <string name="nothing_found_desc">La ultima verificare nu s-au găsit actualizări disponibile pentru sistemul dvs, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="nothing_found_desc">Nu s-au găsit actualizări disponibile pentru sistemul dvs la ultima verificare, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">O actualizare CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, este disponibilă pentru tableta dvs. Veți fi notificat când aceasta este gata de instalat</string>
+  <string name="generic_update_desc" product="default">O actualizare CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, este disponibilă pentru telefonul dvs. Veți fi notificat când aceasta este gata de instalat</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Veți fi notificat când este gata de instalat</string>
   <string name="update_size">Mărime actualizare: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">O actualizare este disponibilă pentru sistemul dvs</string>
