@@ -4,7 +4,7 @@
   <string name="app_name">Mises à jour système</string>
   <string name="default_header">Votre système est à jour</string>
   <string name="default_desc">Appuyez sur le bouton pour vérifier les mises à jour</string>
-  <string name="default_button">Vérifier les mises à jour</string>
+  <string name="default_button">Rechercher des mises à jour</string>
   <string name="cancel_button">Annuler la mise à jour</string>
   <string name="download_button">Télécharger la mise à jour</string>
   <string name="install_button">Installer la mise à jour</string>
@@ -17,6 +17,6 @@
   <string name="pending_update_notification">Mise à jour système prête</string>
   <string name="pending_download_notification">Mise à jour système disponible</string>
   <string name="update_recovery_title">Mettre à jour le recovery Cyanogen</string>
-  <string name="update_recovery_message">ATTENTION : La mise à jour du recovery Cyanogen est désactivée. Cela peut provoquer des problèmes avec la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour le recovery Cyanogen</i> dans les Options pour les développeurs.</string>
+  <string name="update_recovery_message">ATTENTION : La mise à jour du recovery Cyanogen est désactivée. Cela peut provoquer des problèmes pour la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour le recovery Cyanogen</i> dans les Options pour les développeurs.</string>
   <string name="ignore">Ignorer</string>
 </resources>
