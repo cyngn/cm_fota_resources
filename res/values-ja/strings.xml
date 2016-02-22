@@ -9,8 +9,8 @@
   <string name="download_button">アップデートをダウンロード</string>
   <string name="install_button">アップデートをインストール</string>
   <string name="nothing_found_desc">前回の確認（<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>）ではお使いのシステムへの利用可能なアップデートはありませんでした</string>
-  <string name="generic_update_desc" product="tablet">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いのタブレットで利用可能です。インストールの準備ができたら通知します。</string>
-  <string name="generic_update_desc" product="default">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いの携帯電話で利用可能です。インストールの準備ができたら通知します。</string>
+  <string name="generic_update_desc" product="tablet">Cyanogen OSアップデート[<xliff:g id="version">%1$s</xliff:g>]がお使いのタブレットで利用可能です。インストールの準備ができたら通知します。</string>
+  <string name="generic_update_desc" product="default">Cyanogen OSアップデート[<xliff:g id="version">%1$s</xliff:g>]がお使いの携帯電話で利用可能です。インストールの準備ができたら通知します。</string>
   <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. インストールの準備ができたら通知します。</string>
   <string name="update_size">アップデートサイズ: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">お使いのシステムでアップデートが利用可能です</string>
