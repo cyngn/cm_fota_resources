@@ -3,9 +3,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Atualizações do sistema</string>
   <!-- Defaults -->
-  <string name="default_header">O seu sistema está atualizado</string>
+  <string name="default_header">Seu sistema está atualizado</string>
   <string name="default_desc">Pressione o botão para verificar se há atualizações</string>
-  <string name="default_button">Verificar por atualizações</string>
+  <string name="default_button">Procurar atualizações</string>
   <!-- Button states -->
   <string name="cancel_button">Cancelar atualização</string>
   <string name="download_button">Baixar atualização</string>
@@ -23,7 +23,7 @@
   <string name="pending_update_notification">A atualização para o sistema está pronta</string>
   <string name="pending_download_notification">Uma atualização do sistema está disponível</string>
   <!-- Update Recovery Dialog -->
-  <string name="update_recovery_title">Atualizar o recovery da Cyanogen</string>
-  <string name="update_recovery_message">Aviso: A atualização da recuperação Cyanogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de desenvolvedor.</string>
+  <string name="update_recovery_title">Atualizar a recuperação do Cyanogen</string>
+  <string name="update_recovery_message">Aviso: A atualização da recuperação Cyanogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor, ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de desenvolvedor.</string>
   <string name="ignore">Ignorar</string>
 </resources>
