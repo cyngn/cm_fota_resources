@@ -35,4 +35,10 @@
     <string name="update_recovery_title">Update Cyanogen recovery</string>
     <string name="update_recovery_message">WARNING: Update Cyanogen recovery is disabled. This may cause issues with updating your device.\n\nPlease enable <i>Update Cyanogen recovery</i> in Developer options.</string>
     <string name="ignore">Ignore</string>
+
+    <!-- Update failed dialogs -->
+    <string name="failed_dialog_title">Download failed</string>
+    <string name="failed_dialog_due_to_generic">The download failed due to <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+    <string name="failed_dialog_due_to_insufficient_space">The download failed due to insufficient space on device.</string>
+    <string name="failed_dialog_due_to_unknown">The download failed for unknown reasons.</string>
 </resources>
