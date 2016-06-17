@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Обновление режима восстановления</string>
   <string name="update_recovery_message">Внимание: перезапись режима восстановления отключена. Это может вызвать проблемы с установкой обновлений.\n\nВключите параметр <i>«Обновлять режим восстановления»</i> в настройках для разработчиков.</string>
   <string name="ignore">Пропустить</string>
+  <!-- Update failed dialogs -->
 </resources>

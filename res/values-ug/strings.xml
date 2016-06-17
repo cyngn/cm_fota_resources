@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen ئەسلىگە كەلتۈرۈش ھالىتىنى يېڭىلاش</string>
   <string name="update_recovery_message">ئەسكەرتىش: Cyanogen recovery نى يېڭلاش چەكلەنگەن. بۇ سىستېما يىڭلاشتا خاتالىق كەلتۈرۈپ چىقىرىشى مۇمكىن.\n\n <i>Update Cyanogen recovery</i> نى ئاچقۇچى تاللانمىسىدىن قوزغىتىڭ.</string>
   <string name="ignore">پەرۋا قىلماڭ</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Atnaujinti „Cyanogen“ atkūrimo programą</string>
   <string name="update_recovery_message">ĮSPĖJIMAS: „Cyanogen“ atkūrimo programos atnaujinimas yra neleidžiamas. Tai gali sukelti problemų atnaujinant jūsų įrenginį.\n\nPrašome įgalinti <i>Atnaujinti „Cyanogen“ atkūrimo programą</i> Kūrėjo parinktyse.</string>
   <string name="ignore">Ignoruoti</string>
+  <!-- Update failed dialogs -->
 </resources>

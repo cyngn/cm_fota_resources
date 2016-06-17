@@ -20,4 +20,5 @@
   <string name="update_recovery_title">更新 Cyanogen 修復模式</string>
   <string name="update_recovery_message">警告: 更新 Cyanogen 修復模式功能已被停用，在更新裝置時可能會導致發生問題。\n\n請您在開發人員選項中啟用<i>更新 Cyanogen 修復模式</i>。</string>
   <string name="ignore">忽略</string>
+  <!-- Update failed dialogs -->
 </resources>

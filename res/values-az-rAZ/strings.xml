@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen bərpa rejimini yenilə</string>
   <string name="update_recovery_message">Xəbərdarlıq: Cyanogen bərpa rejimini yeniləmə ləğv edilib. Bu halda cihazınızı yeniləyərkən problem yarana bilər.\n\nZəhmət olmasa Tərtibatçı seçimlərindən <i>Cyanogen bərpa rejimini yenilə</i> seçimini fəallaşdırın.</string>
   <string name="ignore">Əhəmiyyət vermə</string>
+  <!-- Update failed dialogs -->
 </resources>

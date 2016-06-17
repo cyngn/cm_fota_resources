@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Mettre à jour la récupération Cyanogen</string>
   <string name="update_recovery_message">ATTENTION : La mise à jour de la récupération Cyanogen est désactivée. Cela peut provoquer des problèmes pour la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour la récupération Cyanogen</i> dans les Options pour les développeurs.</string>
   <string name="ignore">Ignorer</string>
+  <!-- Update failed dialogs -->
 </resources>

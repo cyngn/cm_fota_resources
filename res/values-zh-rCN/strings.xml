@@ -26,4 +26,9 @@
   <string name="update_recovery_title">更新 Cyanogen 恢复模式</string>
   <string name="update_recovery_message">警告：更新 Cyanogen 恢复模式已被禁用。这可能导致在更新您的设备时遇到问题。\n\n请在开发人员者中启用<i>更新 Cyanogen 恢复系统</i>。</string>
   <string name="ignore">忽略</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">下载失败</string>
+  <string name="failed_dialog_due_to_generic">由于 <xliff:g id="reason" example="because reasons">%1$s</xliff:g> ，下载失败</string>
+  <string name="failed_dialog_due_to_insufficient_space">由于设备上的可用空间不足，下载失败。</string>
+  <string name="failed_dialog_due_to_unknown">由于未知原因，下载失败。</string>
 </resources>

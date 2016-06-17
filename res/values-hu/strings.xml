@@ -26,4 +26,5 @@
   <string name="update_recovery_title">CM recovery frissítése</string>
   <string name="update_recovery_message">FIGYELEM: Cyanogen recovery frissítése letiltva. Ez problémákat okozhat készüléke frissítésekor.\n\nEngedélyezze a <i>Cyanogen recovery frissítése</i> opciót a Fejlesztői eszközök között.</string>
   <string name="ignore">Figyelmen kívül hagy</string>
+  <!-- Update failed dialogs -->
 </resources>

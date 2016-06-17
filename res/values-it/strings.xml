@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Aggiorna Cyanogen recovery</string>
   <string name="update_recovery_message">ATTENZIONE: L\'aggiornamento della Cyanogen Recovery è disattivato. Questo può causare problemi aggiornando il dispositivo.\n\nAttiva <i>Aggiorna Cyanogen Recovery</i> dalle opzioni sviluppatore.</string>
   <string name="ignore">Ignora</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Download non riuscito</string>
+  <string name="failed_dialog_due_to_generic">Download non riuscito a causa di <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Download non riuscito per spazio insufficiente sul dispositivo.</string>
+  <string name="failed_dialog_due_to_unknown">Download non riuscito per motivi sconosciuti.</string>
 </resources>

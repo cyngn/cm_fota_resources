@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Actualizar recuperación de CyanogenMod</string>
   <string name="update_recovery_message">ADVERTENCIA: La actualización de recuperación de Cyanogen está deshabilitada. Esto puede causar problemas con la actualización del dispositivo.\n\nHabilita <i>Actualizar recuperación de Cyanogen</i> en las configuraciones del desarrollador.</string>
   <string name="ignore">Ignorar</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Atualizar a recuperação Cyanogen</string>
   <string name="update_recovery_message">AVISO: A atualização da recuperação Cianogen está desativada. Isto pode causar problemas com a atualização do seu dispositivo.\n\nPor favor ative a opção <i>Atualizar a recuperação Cyanogen</i> nas opções de programador.</string>
   <string name="ignore">Ignorar</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">A transferência falhou</string>
+  <string name="failed_dialog_due_to_generic">A transferência falhou devido a <xliff:g id="reason" example="because reasons">%1$s </xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">A transferência falhou porque não há espaço suficiente no dispositivo.</string>
+  <string name="failed_dialog_due_to_unknown">A transferência falhou por razões desconhecidas.</string>
 </resources>

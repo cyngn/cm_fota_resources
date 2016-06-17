@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Ažuriraj Cyanogen recovery</string>
   <string name="update_recovery_message">UPOZORENJE: Ažuriranje Cyanogen oporavka je onemogućeno. Ovo može stvoriti probleme s ažuriranjem uređaja.\n\nMolimo omogućite <i>Ažuriraj Cyanogen recovery</i> u opcijama za razvoj.</string>
   <string name="ignore">Zanemari</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Preuzimanje nije uspjelo</string>
+  <string name="failed_dialog_due_to_generic">Preuzimanje nije uspjelo zbog <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Preuzimanje nije uspjelo zbog nedostatka prostora na uređaju.</string>
+  <string name="failed_dialog_due_to_unknown">Preuzimanje nije uspjelo iz nepoznatih razloga.</string>
 </resources>

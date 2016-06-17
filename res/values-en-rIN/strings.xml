@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Update Cyanogen recovery</string>
   <string name="update_recovery_message">WARNING: Update Cyanogen recovery is disabled. This may cause issues with updating your device.\n\nPlease enable <i>Update Cyanogen recovery</i> in Developer options.</string>
   <string name="ignore">Ignore</string>
+  <!-- Update failed dialogs -->
 </resources>

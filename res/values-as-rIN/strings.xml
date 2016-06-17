@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen পুনৰুদ্ধাৰ আপডেট কৰক</string>
   <string name="update_recovery_message">সকীয়নি: Cyanogen পুনৰুদ্ধাৰ আপডেট অক্ষম কৰা আছে। ই আপোনাৰ ডিভাইচটো আপডেট কৰোতে সমস্যা সৃষ্টি কৰিব পাৰে\ \n\nঅনুগ্ৰহ কৰি সক্ষম কৰক  <i>Cyanogen পুনৰুদ্ধাৰ আপডেট কৰক</i> ডেভলপাৰ বিকল্পসমূহত</string>
   <string name="ignore">প্ৰত্যাখ্যান কৰক</string>
+  <!-- Update failed dialogs -->
 </resources>

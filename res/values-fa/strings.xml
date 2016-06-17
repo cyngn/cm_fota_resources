@@ -26,4 +26,5 @@
   <string name="update_recovery_title">بروزرسانی ریکاوری سایانوژن</string>
   <string name="update_recovery_message">هشدار: بروزرسانی ریکاوری سایانوژن غیرفعال است. ممکن است این کار در بروزرسانی دستگاه شما اختلال ایجاد کند.\n\n لطفا در قسمت گزینه‌های توسعه <i>بروزرسانی ریکاوری سایانوژن</i> را فعال کنید.</string>
   <string name="ignore">چشم‌پوشی</string>
+  <!-- Update failed dialogs -->
 </resources>

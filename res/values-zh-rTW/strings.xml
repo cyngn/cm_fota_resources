@@ -26,4 +26,5 @@
   <string name="update_recovery_title">更新 Cyanogen Recovery</string>
   <string name="update_recovery_message">警告: 更新Cyanogen Recovery處於停用狀態。在更新時可能會發生問題。請您在開發人員選項中 .\n\n 啟用 <i>更新Cyanogen Recovery</i>。</string>
   <string name="ignore">忽略</string>
+  <!-- Update failed dialogs -->
 </resources>

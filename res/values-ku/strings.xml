@@ -25,4 +25,5 @@
   <!-- Update Recovery Dialog -->
   <string name="update_recovery_title">بەڕۆژکردنی ڕیکاڤێری سایانۆجێن</string>
   <string name="ignore">پشتگوێخستن</string>
+  <!-- Update failed dialogs -->
 </resources>

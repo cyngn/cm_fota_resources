@@ -26,4 +26,7 @@
   <string name="update_recovery_title">Ажурирај Cyanogen опоравак</string>
   <string name="update_recovery_message">УПОЗОРЕЊЕ: Ажурирање Cyanogen опоравка је онемогућено. Ово може створити проблеме са ажурирањем уређаја.\n\nОмогући<i>Ажурирање Cyanogen опоравка</i> у опцијама програмера.</string>
   <string name="ignore">Игнориши</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Преузимање није успело</string>
+  <string name="failed_dialog_due_to_unknown">Преузимање није успело из непознатих разлога.</string>
 </resources>

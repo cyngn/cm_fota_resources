@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Aktualizuj recovery Cyanogen</string>
   <string name="update_recovery_message">UWAGA: Aktualizacja recovery Cyanogen jest wyłączona. Może to powodować problem z aktualizacją twojego urządzenia.\n\nProszę włączyć <i>Aktualizuj recovery Cyanogen</i> w Opcjach programistycznych.</string>
   <string name="ignore">Ignoruj</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,5 @@
   <string name="update_recovery_title">استعادة تحديث Cyanogen</string>
   <string name="update_recovery_message">تحذير: تم تعطيل استعادة تحديث Cyanogen. قد يسبب ذلك مشكلات في تحديث جهازك.\n\nيُرجى تمكين <i>استعادة تحديث Cyanogen</i> في خيارات المطور.</string>
   <string name="ignore">تجاهل</string>
+  <!-- Update failed dialogs -->
 </resources>

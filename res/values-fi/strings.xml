@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Päivitä Cyanogen Recovery</string>
   <string name="update_recovery_message">VAROITUS: Cyanogenin Recovery-tilan päivitys on poistettu käytöstä. Tämä voi aiheuttaa ongelmia laitteen päivityksessä.\n\nOta <i>Päivitä Cyanogen Recovery</i> käyttöön kehittäjäasetuksista.</string>
   <string name="ignore">Ohita</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Lataus epäonnistui</string>
+  <string name="failed_dialog_due_to_generic">Lataus epäonnistui koska <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Lataus epäonnistui koska laitteessa ei ole riittävästi tilaa.</string>
+  <string name="failed_dialog_due_to_unknown">Lataus epäonnistui tuntemattomasta syystä.</string>
 </resources>

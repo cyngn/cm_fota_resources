@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Opdateer Cyanogen herstel program</string>
   <string name="update_recovery_message">WAARSKUWING: Opdateering van Cyanogen herstel program is afgeskakel. Dit kan probleme veroorsaak met die opdatering van jou toestel.\n\nAktiveer asseblief<i> Opdateer Cyanogen herstel program</i> in Ontwikkelaars opsies.</string>
   <string name="ignore">Ignoreer</string>
+  <!-- Update failed dialogs -->
 </resources>

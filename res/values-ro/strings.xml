@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Actualizează Cyanogen recovery</string>
   <string name="update_recovery_message">Avertisment: Actualizarea recovery Cyanogen este dezactivată. Acest lucru poate cauza probleme la actualizarea dispozitivului.\n\nVă rugăm să activați <i>Actualizare recuperare Cyanogen</i> în opțiunile de dezvoltator.</string>
   <string name="ignore">Ignoră</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,6 @@
   <string name="update_recovery_title">עדכן את השחזור של Cyanogen</string>
   <string name="update_recovery_message">אזהרה: עדכון השחזור של Cyanogen מושבת. מצב זה עלול לגרום לתקלות בעת עדכון מכשירך.\n\n אנא הפעל את האפשרות <i>עדכן את השחזור של Cyanogen</i> באפשרויות המפתחים.</string>
   <string name="ignore">התעלם</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">ההורדה נכשלה</string>
 </resources>

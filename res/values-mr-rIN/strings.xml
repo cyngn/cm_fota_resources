@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen पुनर्प्राप्ती अद्ययावत करा</string>
   <string name="update_recovery_message">चेतावनी Cyanogen पुनर्प्राप्ती अद्यतन करा अक्षम केलेले आहे. तुमचे डिव्हाइस अद्यतन करण्याबाबत यामुळे समस्या निर्माण होऊ शकतात.\n\nकृपया सक्षम करा <i>Cyanogen पुनर्प्राप्ती अद्ययावत करा</i> विकसक पर्यायांमध्ये.</string>
   <string name="ignore">दुर्लक्ष करा</string>
+  <!-- Update failed dialogs -->
 </resources>

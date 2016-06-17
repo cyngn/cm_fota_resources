@@ -26,4 +26,5 @@
   <string name="update_recovery_title">सियानोजेन रिकवरी को अद्यतित करें</string>
   <string name="update_recovery_message">चेतावनी: सियानोजेन रिकवरी अद्यतन को अक्षम किया गया है। इससे आपके उपकरण को अद्यतित करते समय समस्या आ सकती है।\n\nकृपया<i>सियानोजेन रिकवरी को अद्यतन करें</i> को डेवलपर विकल्पों में सक्षम करें।</string>
   <string name="ignore">अनदेखा करें</string>
+  <!-- Update failed dialogs -->
 </resources>

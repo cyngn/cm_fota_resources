@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Opdatér Cyanogen-recovery</string>
   <string name="update_recovery_message">ADVARSEL: Opdatering af Cyanogen-recovery er deaktiveret. Dette kan forårsage problemer med opdatering af din enhed.\n\nAktivér venligst <i>Opdatering af Cyanogen-recovery</i> i indstillinger for udviklere.</string>
   <string name="ignore">Ignorér</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Download mislykkedes</string>
+  <string name="failed_dialog_due_to_generic">Download mislykkedes på grund af <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Download mislykkedes på grund af utilstrækkelig plads på enheden.</string>
+  <string name="failed_dialog_due_to_unknown">Download mislykkedes af ukendte årsager.</string>
 </resources>

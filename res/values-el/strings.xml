@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Ενημέρωση Cyanogen recovery</string>
   <string name="update_recovery_message">ΠΡΟΣΟΧΗ: Η ενημέρωση της Cyanogen recovery είναι απενεργοποιημένη. Αυτό μπορεί να προκαλέσει προβλήματα κατά την ενημέρωση της συσκευής σας.\n\nΠαρακαλούμε ενεργοποιήστε την επιλογή <i>Ενημέρωση Cyanogen recovery</i> στις επιλογές για προγραμματιστές.</string>
   <string name="ignore">Παράβλεψη</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Η λήψη απέτυχε</string>
+  <string name="failed_dialog_due_to_generic">Η λήψη απέτυχε λόγω <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Η λήψη απέτυχε λόγω ανεπαρκή χώρου στη συσκευή.</string>
+  <string name="failed_dialog_due_to_unknown">Η λήψη απέτυχε για άγνωστους λόγους.</string>
 </resources>

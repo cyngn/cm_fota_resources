@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cập nhật recovery của Cyanogen</string>
   <string name="update_recovery_message">Cảnh báo: Cập nhậ recovery của Cyanogen đã tắt. Điều này có thể gây ra vấn đề với việc cập nhật thiết bị của bạn.\n\nVui lòng kích hoạt <i>Cập nhật recovery của Cyanogen</i> trong các tuỳ chọn Nhà phát triển.</string>
   <string name="ignore">Bỏ qua</string>
+  <!-- Update failed dialogs -->
 </resources>

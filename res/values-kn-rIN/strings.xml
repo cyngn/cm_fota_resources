@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen ರಿಕವರಿ ನವೀಕರಿಸು</string>
   <string name="update_recovery_message">ಎಚ್ಚರಿಕೆ: Cyanogen ರಿಕವರಿ ನವೀಕರಣೆ ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ. ಇದು ನಿಮ್ಮ ಸಾಧನವನ್ನು ನವೀಕೃತಗೊಳಿಸುವಲ್ಲಿ ತೊಂದರೆಯನ್ನುಂಟುಮಾಡಬಹುದು.\n\nದಯವಿಟ್ಟು ಡೆವಲಪರ್ ಆಯ್ಕೆಗಳಿಂದ <i> Cyanogen ರಿಕವರಿ ನವೀಕರಿಸು</i> ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
   <string name="ignore">ಕಡೆಗಣಿಸಿ</string>
+  <!-- Update failed dialogs -->
 </resources>

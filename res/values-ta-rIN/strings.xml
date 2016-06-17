@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen மீட்டலை புதுப்பி</string>
   <string name="update_recovery_message">எச்சரிக்கை: Cyanogen மீட்டல் புதுப்பித்தல் முடக்கப்பட்டது. உங்கள் சாதனத்தை புதுப்பிப்பதில் இது பிரச்சனைகளை ஏற்படுத்தலாம். \n\n தயவுசெய்து செயல்படுத்தவும் <i>Cyanogen மீட்டலை புதுப்பி</i> உருவாக்குனர் விருப்பங்களில்.</string>
   <string name="ignore">புறக்கணி</string>
+  <!-- Update failed dialogs -->
 </resources>

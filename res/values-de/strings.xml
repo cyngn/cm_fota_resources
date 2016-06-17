@@ -26,4 +26,7 @@
   <string name="update_recovery_title">CM-Recovery aktualisieren</string>
   <string name="update_recovery_message">ACHTUNG: Das Aktualisieren der Cyanogen-Recovery ist deaktiviert. Dies kann Probleme beim Aktualisieren Ihres Geräts verursachen.\n\nBitte aktivieren Sie <i>Cyanogen-Recovery aktualisieren</i> in den Entwicklereinstellungen.</string>
   <string name="ignore">Ignorieren</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Download fehlgeschlagen</string>
+  <string name="failed_dialog_due_to_unknown">Der Download ist aus unbekannten Gründen fehlgeschlagen.</string>
 </resources>

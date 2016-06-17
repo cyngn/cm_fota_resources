@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Posodobi obnovitev Cyanogen</string>
   <string name="update_recovery_message">OPOZORILO: Posodobitev obnovitve Cianogen je onemogočena. To lahko povzroči težave s posodabljanjem vaše naprave.\n\nOmogočite <i>Posodobi obnovitev Cyanogen</i> v možnostih za razvijalce.</string>
   <string name="ignore">Prezri</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Prenos je spodletel</string>
+  <string name="failed_dialog_due_to_generic">Prenos je spodletel zaradi <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Prenos je spodletel zaradi nezadostnega prostora na napravi.</string>
+  <string name="failed_dialog_due_to_unknown">Prenos je spodletel zaradi neznanih razlogov.</string>
 </resources>

@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen રિકવરી અપડેટ કરો</string>
   <string name="update_recovery_message">ચેતવણી: Cyanogen રિકવરી અપડેટ અક્ષમ કરવામાં આવ્યું છે. આને કારણે તમારી ડિવાઇસ અપડેટ થવામાં સમસ્યાઓ થઈ શકે.\n\nકૃપા કારી સક્ષમ કરો <i>Cyanogen રિકવરી અપડેટ કરો</i> ડેવેલપર વિકલ્પોમાં.</string>
   <string name="ignore">અવગણો</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,5 @@
   <string name="update_recovery_title">ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ କରନ୍ତୁ</string>
   <string name="update_recovery_message">ସତର୍କତା: ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ ଅଷ୍ମ କରାଯାଇଛି ଆପଣଙ୍କ ଡିଭାଇସ୍‍ ଅଦ୍ୟତନ କରିବାରେ ଏହା କିଛି ସମସ୍ୟା ସୃଷ୍ଟି କରିପାରେ।\n\nଦୟାକରି ସଷମ କରନ୍ତୁ <i>ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ କରନ୍ତୁ</i> ଡେଭେଲୋପର୍‍ ବିକଳ୍ପରେ।</string>
   <string name="ignore">ଉପେକ୍ଷା</string>
+  <!-- Update failed dialogs -->
 </resources>

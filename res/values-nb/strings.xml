@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Oppdater Cyanogen recovery</string>
   <string name="update_recovery_message">Advarsel: Oppdatering av Cyanogen recovery er deaktivert. Dette kan forårsake problemer når du oppdaterer din enhet.\n\nVennligst aktiver <i>oppdatering av Cyanogen recovery</i> i alternativer for utviklere.</string>
   <string name="ignore">Ignorer</string>
+  <!-- Update failed dialogs -->
 </resources>

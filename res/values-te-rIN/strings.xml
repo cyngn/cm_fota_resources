@@ -26,4 +26,5 @@
   <string name="update_recovery_title">సయనోజెన్ పునరుద్ధరణను నవీకరించుము</string>
   <string name="update_recovery_message">హెచ్చ్జరిక: సయనోజెన్ పునరుద్ధరణను నవీకరించడం నిలిపివేయబడింది. ఇది మీ పరికరాన్ని నవీకరించడంలో సమస్యలను సృష్టించవచ్చు.\n\nదయచేసి ప్రారంభించండి <i>సయనోజెన్ పునరుద్ధరణను నవీకరించుము</i> డెవెలపర్ ఐచ్చికాలలో.</string>
   <string name="ignore">విస్మరించు</string>
+  <!-- Update failed dialogs -->
 </resources>

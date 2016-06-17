@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Uuenda Cyanogeni taasterežiimi</string>
   <string name="update_recovery_message">HOIATUS: Cyanogen taastusrežiimi uuendamine on keelatud. See võib põhjustada probleeme seadme uuendusel.\n\nPalun lubage <i>Uuenda Cyanogeni taasterežiimi</i> Arendaja valikustes.</string>
   <string name="ignore">Ignoreeri</string>
+  <!-- Update failed dialogs -->
 </resources>

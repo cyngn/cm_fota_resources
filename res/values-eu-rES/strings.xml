@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Eguneratu Cyanogen berreskuratzea</string>
   <string name="update_recovery_message">KONTUZ: Cyanogen berreskuratzea eguneratzea ezgaituta dago. Honek arazoak sor litzake gailua eguneratzean.\n\n Mesedez gaitu <i>Cyanogen berreskuratzea eguneratzea</i> garapen ezarpenetan.</string>
   <string name="ignore">Ezikusi</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Deskargak huts egin du</string>
+  <string name="failed_dialog_due_to_generic">Deskargak huts egieko arrazoia: <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Deskargak huts egin du ez dagoelako espazio nahikoa gailuan.</string>
+  <string name="failed_dialog_due_to_unknown">Deskargak huts egin du arrazoi ezezagunengatik.</string>
 </resources>

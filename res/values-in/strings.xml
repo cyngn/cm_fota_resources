@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Perbarui pemulihan Cyanogen</string>
   <string name="update_recovery_message">PERINGATAN: Pemulihan pembaruan Cyanogen dinonaktifkan. Ini dapat menyebabkan masalah dengan pembaruan perangkat Anda.\n\nMohon aktifkan <i>Pemulihan pembaruan Cyanogen</i> di opsi Pengembang.</string>
   <string name="ignore">Abaikan</string>
+  <!-- Update failed dialogs -->
 </resources>

@@ -26,4 +26,9 @@
   <string name="update_recovery_title">Actualitza la recuperació de Cyanogen</string>
   <string name="update_recovery_message">ADVERTÈNCIA: L\'actualització de la recuperació de Cyanogen està deshabilitada. Això pot causar problemes al actualitzar el teu dispositiu.\n\nSi us plau, habilita <i>Actualitza la recuperació de Cyanogen</i> a les opcions de desenvolupament.</string>
   <string name="ignore">Ignora</string>
+  <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">La baixada ha fallat</string>
+  <string name="failed_dialog_due_to_generic">La baixada ha fallat a causa de <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">La baixada ha fallat a causa de no haver-hi prou espai al dispositiu.</string>
+  <string name="failed_dialog_due_to_unknown">La baixada ha fallat per raons desconegudes.</string>
 </resources>

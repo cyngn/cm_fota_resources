@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Абнаўленне рэжыму аднаўлення</string>
   <string name="update_recovery_message">Увага: перазапіс рэжыму аднаўлення адключаны. Гэта можа выклікаць праблемы з усталёўкай абнаўленняў.\n\nУключыце опцыю <i> абнаўляць рэжым аднаўлення</i> у наладах для распрацоўнікаў.</string>
   <string name="ignore">Прапусціць</string>
+  <!-- Update failed dialogs -->
 </resources>

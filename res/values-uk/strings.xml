@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Оновлення Cyanogen recovery</string>
   <string name="update_recovery_message">Увага: Оновлення Cyanogen recovery відключено. Це може призвести до проблем при оновлені вашого пристрою.\n\nБудь ласка, увімкніть<i>Оновлення Cyanogen recovery</i> в меню для розробників.</string>
   <string name="ignore">Ігнорувати</string>
+  <!-- Update failed dialogs -->
 </resources>

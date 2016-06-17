@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Aktualizovať Cyanogen recovery</string>
   <string name="update_recovery_message">UPOZORNENIE: Aktualizácia Cyanogen recovery je zakázaná. Toto môže spôsobiť problémy s aktualizáciou Vášho zariadenia.\n\nProsím, povoľte <i>Aktualizáciu Cyanogen recovery</i> v možnostiach pre vývojára.</string>
   <string name="ignore">Ignorovať</string>
+  <!-- Update failed dialogs -->
 </resources>

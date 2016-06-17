@@ -26,4 +26,5 @@
   <string name="update_recovery_title">Cyanogen റിക്കവറി അപ്ഡേറ്റ് ചെയ്യുക</string>
   <string name="update_recovery_message">മുന്നറിയിപ്പ്: അപ്ഡേറ്റ് Cyanogen അപ്ഡേറ്റ് അപ്രാപ്തമാക്കി. ഇത് നിങ്ങളുടെ ഉപകരണം അപ്ഡേറ്റ് ചെയ്യുന്നതില്‍ പ്രശ്നങ്ങൾക്ക് ഇടയാക്കും.\n\nദയവായി പ്രാപ്തമാക്കുക <i>Cyanogen റിക്കവറി അപ്ഡേറ്റ് ചെയ്യുക</i> ഡവലപ്പർ ഐച്ഛികങ്ങള്‍.</string>
   <string name="ignore">നിരസിക്കുക</string>
+  <!-- Update failed dialogs -->
 </resources>
