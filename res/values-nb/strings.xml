@@ -27,4 +27,8 @@
   <string name="update_recovery_message">Advarsel: Oppdatering av Cyanogen recovery er deaktivert. Dette kan forårsake problemer når du oppdaterer din enhet.\n\nVennligst aktiver <i>oppdatering av Cyanogen recovery</i> i alternativer for utviklere.</string>
   <string name="ignore">Ignorer</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Nedlasting feilet</string>
+  <string name="failed_dialog_due_to_generic">Nedlastingen feilet på grunn av <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Nedlastingen feilet på grunn av lite plass på enheten.</string>
+  <string name="failed_dialog_due_to_unknown">Nedlastingen feilet på grunn av ukjente grunner.</string>
 </resources>

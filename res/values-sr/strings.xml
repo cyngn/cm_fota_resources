@@ -28,5 +28,7 @@
   <string name="ignore">Игнориши</string>
   <!-- Update failed dialogs -->
   <string name="failed_dialog_title">Преузимање није успело</string>
+  <string name="failed_dialog_due_to_generic">Преузимање није успело због <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Преузимање није успело због недостатка простора на уређају.</string>
   <string name="failed_dialog_due_to_unknown">Преузимање није успело из непознатих разлога.</string>
 </resources>

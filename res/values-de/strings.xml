@@ -28,5 +28,7 @@
   <string name="ignore">Ignorieren</string>
   <!-- Update failed dialogs -->
   <string name="failed_dialog_title">Download fehlgeschlagen</string>
+  <string name="failed_dialog_due_to_generic">Der Download ist fehlgeschlagen aufgrund von <xliff:g id="reason" example="because reasons">%1$s </xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Der Download ist wegen unzureichendem Speicherplatz fehlgeschlagen.</string>
   <string name="failed_dialog_due_to_unknown">Der Download ist aus unbekannten Gründen fehlgeschlagen.</string>
 </resources>
