@@ -24,6 +24,6 @@
   <string name="pending_download_notification">Налична е актуализация за системата</string>
   <!-- Update Recovery Dialog -->
   <string name="update_recovery_title">Актуализиране на Cyanogen recovery</string>
-  <string name="update_recovery_message">Предупреждение: Актуализацията на Cyanogen recovery е забранена. Това може да причини проблеми с актуализирането на вашето устройство.\n\nМоля, разреши <i>актуализацията на Cyanogen recovery </i> в опции на програмиста.</string>
+  <string name="update_recovery_message">Предупреждение: Актуализацията на режима за възстановяване забранена. Това може да причини проблеми с актуализирането на вашето устройство.\n\nМоля, разрешете <i>актуализацията на режима за възстановяване </i> в опции на програмиста.</string>
   <string name="ignore">Игнорирай</string>
 </resources>
