@@ -27,4 +27,8 @@
   <string name="update_recovery_message">Внимание: перезапись режима восстановления отключена. Это может вызвать проблемы с установкой обновлений.\n\nВключите параметр <i>«Обновлять режим восстановления»</i> в настройках для разработчиков.</string>
   <string name="ignore">Пропустить</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Ошибка загрузки</string>
+  <string name="failed_dialog_due_to_generic">Ошибка загрузки из-за <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Ошибка загрузки из-за недостатка места на устройстве.</string>
+  <string name="failed_dialog_due_to_unknown">Ошибка загрузки по неизвестным причинам.</string>
 </resources>
