@@ -27,4 +27,7 @@
   <string name="update_recovery_message">Let op: Cyanogen-recovery bijwerken is uitgeschakeld. Dit kan problemen veroorzaken met het bijwerken van uw apparaat.\n\nSchakel <i>Cyanogen-recovery bijwerken</i> in in de opties voor ontwikkelaars.</string>
   <string name="ignore">Negeren</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Download mislukt</string>
+  <string name="failed_dialog_due_to_generic">Downloaden is mislukt als gevolg van <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Download is mislukt vanwege onvoldoende opslagruimte op het apparaat.</string>
 </resources>
