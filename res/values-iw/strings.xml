@@ -28,4 +28,7 @@
   <string name="ignore">התעלם</string>
   <!-- Update failed dialogs -->
   <string name="failed_dialog_title">ההורדה נכשלה</string>
+  <string name="failed_dialog_due_to_generic">ההורדה כשלה עקב <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">ההורדה נכשלה כיוון שאין די מקום במכשיר.</string>
+  <string name="failed_dialog_due_to_unknown">ההורדה נכשלה מסיבות בלתי ידועות.</string>
 </resources>
