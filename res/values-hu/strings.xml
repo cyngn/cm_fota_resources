@@ -27,4 +27,8 @@
   <string name="update_recovery_message">FIGYELEM: Cyanogen recovery frissítése letiltva. Ez problémákat okozhat készüléke frissítésekor.\n\nEngedélyezze a <i>Cyanogen recovery frissítése</i> opciót a Fejlesztői eszközök között.</string>
   <string name="ignore">Figyelmen kívül hagy</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Letöltés sikertelen</string>
+  <string name="failed_dialog_due_to_generic">A letöltés nem sikerült, mert: <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">A letöltés nem sikerült, mert nincs elegendő hely a készüléken.</string>
+  <string name="failed_dialog_due_to_unknown">A letöltés nem sikerült, ismeretlen okokból.</string>
 </resources>
