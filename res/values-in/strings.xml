@@ -3,7 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Pembaruan sistem</string>
   <!-- Defaults -->
-  <string name="default_header">Sistem Anda adalah yang terbaru</string>
+  <string name="default_header">Sistem Anda up to date</string>
   <string name="default_desc">Tekan tombol untuk memeriksa pembaruan</string>
   <string name="default_button">Periksa pembaruan</string>
   <!-- Button states -->
@@ -23,8 +23,12 @@
   <string name="pending_update_notification">Pembaruan sistem siap</string>
   <string name="pending_download_notification">Pembaruan sistem tersedia</string>
   <!-- Update Recovery Dialog -->
-  <string name="update_recovery_title">Perbarui pemulihan Cyanogen</string>
+  <string name="update_recovery_title">Perbarui Cyanogen recovery</string>
   <string name="update_recovery_message">PERINGATAN: Pemulihan pembaruan Cyanogen dinonaktifkan. Ini dapat menyebabkan masalah dengan pembaruan perangkat Anda.\n\nMohon aktifkan <i>Pemulihan pembaruan Cyanogen</i> di opsi Pengembang.</string>
   <string name="ignore">Abaikan</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Unduhan gagal</string>
+  <string name="failed_dialog_due_to_generic">Unduhan gagal karena <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Unduhan gagal karena kurangnya ruang pada perangkat.</string>
+  <string name="failed_dialog_due_to_unknown">Unduhan gagal karena kesalahan yang tidak diketahui.</string>
 </resources>
