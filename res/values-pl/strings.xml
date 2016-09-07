@@ -27,4 +27,8 @@
   <string name="update_recovery_message">UWAGA: Aktualizacja recovery Cyanogen jest wyłączona. Może to powodować problem z aktualizacją twojego urządzenia.\n\nProszę włączyć <i>Aktualizuj recovery Cyanogen</i> w Opcjach programistycznych.</string>
   <string name="ignore">Ignoruj</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Pobieranie nie powiodło się</string>
+  <string name="failed_dialog_due_to_generic">Pobieranie nie powiodło się z powodu <xliff:g id="reason" example="because reasons">%1$s </xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Pobieranie nie powiodło się z powodu braku miejsca na urządzeniu.</string>
+  <string name="failed_dialog_due_to_unknown">Pobieranie nie powiodło się z nieznanych przyczyn.</string>
 </resources>
