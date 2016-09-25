@@ -30,4 +30,5 @@
   <string name="failed_dialog_title">Download mislukt</string>
   <string name="failed_dialog_due_to_generic">Downloaden is mislukt als gevolg van <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
   <string name="failed_dialog_due_to_insufficient_space">Download is mislukt vanwege onvoldoende opslagruimte op het apparaat.</string>
+  <string name="failed_dialog_due_to_unknown">Download is mislukt om onbekende redenen.</string>
 </resources>

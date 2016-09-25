@@ -5,12 +5,30 @@
   <!-- Defaults -->
   <string name="default_header">O seu sistema está actualizado</string>
   <string name="default_desc">Prema o botón para comprobar se hai actualizacións</string>
+  <string name="default_button">Buscar actualizacións</string>
   <!-- Button states -->
   <string name="cancel_button">Cancelar a actualización</string>
+  <string name="download_button">Descargar actualización</string>
+  <string name="install_button">Instalar actualización</string>
   <!-- Description states -->
+  <string name="nothing_found_desc">Non se atoparon actualizacións a última vez que se comprobou, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="tablet">Está dispoñíbel unha actualización <xliff:g id="version">%1$s</xliff:g> do sistema operativo CyanogenMod para tabletas. Enviarémoslle unha notificación cando estea lista para instalar</string>
+  <string name="generic_update_desc" product="default">Está dispoñíbel unha actualización <xliff:g id="version">%1$s</xliff:g> do sistema operativo CyanogenMod para teléfonos. Enviarémoslle unha notificación cando estea lista para instalar</string>
+  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Enviaremos unha notificación cando estea lista para instalar</string>
   <!-- Update size -->
+  <string name="update_size">Tamaño da actualización:<xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
+  <string name="pending_update_header">Hai unha actualicación dispoñíble para o sistema</string>
   <!-- Notification -->
+  <string name="pending_update_notification">A actualización do sistema está preparada</string>
+  <string name="pending_download_notification">Hai unha actualización do sistema dispoñible</string>
   <!-- Update Recovery Dialog -->
+  <string name="update_recovery_title">Recuperación da actualización de Cyanogen</string>
+  <string name="update_recovery_message">AVISO: A recuperación da actualización de Cyanogen está desactivada, o que podería causar erros ao actualizar o seu dispositivo.\n\nHabilite a <i>Recuperación da actualización de Cyanogen</i>nas opcións do desenvolvedor.</string>
+  <string name="ignore">Ignorar</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">A transferencia fallou</string>
+  <string name="failed_dialog_due_to_generic">A transferencia fallou debido a <xliff:g id="reason" example="because reasons">%1$s </xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">A transferencia fallou porque non ahi espazo sufiecente no dispositivo.</string>
+  <string name="failed_dialog_due_to_unknown">A transferencia fallou por razoes descoñecidas.</string>
 </resources>
