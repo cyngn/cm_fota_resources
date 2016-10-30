@@ -27,4 +27,8 @@
   <string name="update_recovery_message">WAARSKUWING: Opdateering van Cyanogen herstel program is afgeskakel. Dit kan probleme veroorsaak met die opdatering van jou toestel.\n\nAktiveer asseblief<i> Opdateer Cyanogen herstel program</i> in Ontwikkelaars opsies.</string>
   <string name="ignore">Ignoreer</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Kon nie aflaai</string>
+  <string name="failed_dialog_due_to_generic">Die aflaai het misluk as gevolg van <xliff:g id="reason" example="because reasons">%1$s</xliff:g></string>
+  <string name="failed_dialog_due_to_insufficient_space">Die aflaai het misluk as gevolg van onvoldoende spasie op die toestel.</string>
+  <string name="failed_dialog_due_to_unknown">Die aflaai het misluk, om onbekende redes.</string>
 </resources>

@@ -27,4 +27,5 @@
   <string name="update_recovery_message">VARNING: Uppdatering av Cyanogen Recovery är inaktiverad. Detta kan orsaka problem vid uppdatering av din enhet.\n\nVänligen aktivera<i>Uppdatering av Cyanogen Recovery</i> i utvecklaralternativ.</string>
   <string name="ignore">Ignorera</string>
   <!-- Update failed dialogs -->
+  <string name="failed_dialog_title">Nedladdning misslyckades</string>
 </resources>
